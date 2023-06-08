@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "5 8 * * 0" # Every Sunday
+    - cron: "0 20 * * *" # Every day at 20:00 Lisbon time
 
 jobs:
   build:
