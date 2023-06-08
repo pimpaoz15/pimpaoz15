@@ -5,7 +5,7 @@ const axios = require('axios');
 async function updateReadme() {
   try {
     // Fetch the updated README content
-    const response = await axios.get('https://raw.githubusercontent.com/pimpaoz15/pimpaoz15/main/README.md');
+    const response = await axios.get('https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md');
     const readmeContent = response.data;
 
     // Modify the content as needed
