@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<div>
+<div> 
   <div style="float: left;">
     <h3>Github Stats:</h3>
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=pimpaoz15&show_icons=true&theme=transparent">
@@ -49,8 +49,8 @@
   </div>
 </div>
 
-
 ## Visitor Stats
+
 <div align="left">
   
 <img src="https://views.whatilearened.today/views/github/pimpaoz15/pimpaoz15.svg"/> <img src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg"/>
