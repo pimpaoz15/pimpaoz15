@@ -2,10 +2,10 @@
     "name": "update-readme",
     "version": "1.0.0",
     "scripts": {
-      "update-readme": "node update-readme.js"
+        "update-readme": "node update-readme.js"
     },
     "dependencies": {
-      "dotenv": "^10.0.0"
+        "axios": "^1.4.0",
+        "dotenv": "^10.0.0"
     }
-  }
-  
+}
