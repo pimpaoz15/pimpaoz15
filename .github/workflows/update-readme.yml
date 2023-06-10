@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 20 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   update-readme:
@@ -15,10 +15,12 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: 14
+          node-version: '16'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install axios
 
       - name: Update README
         run: npm run update-readme
