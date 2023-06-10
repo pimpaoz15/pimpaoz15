@@ -79,7 +79,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="D253:12D67:F6F1765:FA76F6B:6484625E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5b659c3198981f8740c1d8b07785fe3ea95c2f6dc995acced5764b9c98b638e0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMjUzOjEyRDY3OkY2RjE3NjU6RkE3NkY2Qjo2NDg0NjI1RSIsInZpc2l0b3JfaWQiOiIzNjkxNTM4NDExMzcxNjUxNjc4IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiZnJhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="8eb0285c75cbdf8a49752344d1afe1fc018411cb460f7d1a31a9c1ec3b5ce9b0" data-pjax-transient="true"/>
+  <meta name="request-id" content="D291:A07E:BBF9D4D:BEB7E39:64846302" data-pjax-transient="true"/><meta name="html-safe-nonce" content="06d63bcfbea213c64b495d2f61e340dfb9da6f72100d6b78decc0f27d0b5d6f9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEMjkxOkEwN0U6QkJGOUQ0RDpCRUI3RTM5OjY0ODQ2MzAyIiwidmlzaXRvcl9pZCI6IjcyNDQ0NjEwMjczNjM2NDI5MCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImZyYSJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="14c17c3e31b363e7861a4b492603289278726300ce32c43afe9a87905283ec58" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:649307142" data-turbo-transient>
@@ -587,7 +587,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="fmYVhWKE2uyfippCozP5dLVjLsdfo46eKwQy1LbGFb4mykxD5xQMb/7898bhSS4Y39RaPaP7D3dVQOp8d+FTrQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="qbjUOUS0v/Mir0Y+9WW35gUNI7PSunszixBC+Yvfe0zLTYKA+LLP/odBFoJIpwQe/Z9xv1Jmq7a8NhFtWD+qVg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -1092,7 +1092,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pimpaoz15/pimpaoz15/blob/3ab2f445d8a541398d280133317e59f7367163ff/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pimpaoz15/pimpaoz15/blob/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1313,7 +1313,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pimpaoz15/pimpaoz15/blob/3ab2f445d8a541398d280133317e59f7367163ff/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pimpaoz15/pimpaoz15/blob/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1341,7 +1341,7 @@
   
 </div></div>
 
-    <include-fragment src="/pimpaoz15/pimpaoz15/spoofed_commit_check/3ab2f445d8a541398d280133317e59f7367163ff" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/pimpaoz15/pimpaoz15/spoofed_commit_check/3c09316e05da00dfa97dbcec1d1cb588e24dfda8" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   <include-fragment src="/pimpaoz15/pimpaoz15/contributors/main/README.md" class="commit-loader">
@@ -1391,15 +1391,28 @@
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
 
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="toc-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter headings"
+            aria-label="Filter headings">
+        </div>
 
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
+      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#name-already-in-use">Name already in use</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#----pimpaoz15readmemd--">pimpaoz15/README.md</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#----pimpaoz15readmemd---1">pimpaoz15/README.md</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#student-at-instituto-superior-técnico-lisbon">Student at Instituto Superior Técnico, Lisbon.</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#github-stats">Github Stats:</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#languages-and-tools">Languages and Tools:</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#visitor-stats">Visitor Stats</a>
           <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#footer">Footer</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:649307142,&quot;originating_url&quot;:&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#footer-1">Footer</a>
       </div>
     </div>
   </details-menu>
@@ -1408,28 +1421,28 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1714 lines (1277 sloc)
+      3450 lines (2629 sloc)
       <span class="file-info-divider"></span>
-    157 KB
+    347 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/pimpaoz15/pimpaoz15/blob/main/README.md?plain=1" data-permalink-href="/pimpaoz15/pimpaoz15/blob/3ab2f445d8a541398d280133317e59f7367163ff/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/pimpaoz15/pimpaoz15/blob/main/README.md?plain=1" data-permalink-href="/pimpaoz15/pimpaoz15/blob/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</a>      <a href="/pimpaoz15/pimpaoz15/blob/main/README.md" data-permalink-href="/pimpaoz15/pimpaoz15/blob/3ab2f445d8a541398d280133317e59f7367163ff/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/pimpaoz15/pimpaoz15/blob/main/README.md" data-permalink-href="/pimpaoz15/pimpaoz15/blob/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path d="M2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0 1 13.25 16h-9.5A1.75 1.75 0 0 1 2 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 9 4.25V1.5Zm6.75.062V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/pimpaoz15/pimpaoz15/raw/3ab2f445d8a541398d280133317e59f7367163ff/README.md" href="/pimpaoz15/pimpaoz15/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+        <a data-permalink-href="/pimpaoz15/pimpaoz15/raw/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md" href="/pimpaoz15/pimpaoz15/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Raw</span>
     </span>
 </a>  
-          <a data-permalink-href="/pimpaoz15/pimpaoz15/blame/3ab2f445d8a541398d280133317e59f7367163ff/README.md" href="/pimpaoz15/pimpaoz15/blame/main/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
+          <a data-permalink-href="/pimpaoz15/pimpaoz15/blame/3c09316e05da00dfa97dbcec1d1cb588e24dfda8/README.md" href="/pimpaoz15/pimpaoz15/blame/main/README.md" group_item="true" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link Button--secondary Button--small Button">    <span class="Button-content">
       <span class="Button-label">Blame</span>
     </span>
 </a>  
@@ -1438,7 +1451,7 @@
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/pimpaoz15/pimpaoz15/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9c9-H9p6pSDbkZ6-0u-5ARzMZMWs_nCKnbKeP6DmBMo8Av6kFaNvEgysh8g1lWWRTkDngy13bcnYgI2vp5NfwA" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/pimpaoz15/pimpaoz15/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KVIupciFMEOJZG3ApfKVuvv1xFqBwwcNgNir7TLjA4nFyYROibsAhvlz-kFQyH1fDJ9273u-3HILM6e1Fv_XHw" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path d="M11.013 1.427a1.75 1.75 0 0 1 2.474 0l1.086 1.086a1.75 1.75 0 0 1 0 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 0 1-.927-.928l.929-3.25c.081-.286.235-.547.445-.758l8.61-8.61Zm.176 4.823L9.75 4.81l-6.286 6.287a.253.253 0 0 0-.064.108l-.558 1.953 1.953-.558a.253.253 0 0 0 .108-.064Zm1.238-3.763a.25.25 0 0 0-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 0 0 0-.354Z"></path>
 </svg>
@@ -1448,7 +1461,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/pimpaoz15/pimpaoz15/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fZjYx5XbFagB4cVwu8lTRH-955MgzW4V4ga13La7HgW0VVh8WgLfmtbc3AZcs4_ULTFk1aFEc1anNKZMsc5FDw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/pimpaoz15/pimpaoz15/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WwCsrOrhRpg2cxKxKuBDzunGdgt9yK2grUmtJ_KjagS3mwZHq992XUZkhTDf2qsrHqzEvoe1dt8moqF_1r--kg" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2100,7 +2113,7 @@
       spellcheck="false"
       autocomplete="off"
     &gt;
-    &lt;input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Q6+ojHzNNM9ZKg1VbnF+9YmNGsKs47el1errm5DRI+OIkFBy9IJNClK71wGHMO/cQOhodQNAyCudaFn6AOsYFg==" /&gt;
+    &lt;input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="fmYVhWKE2uyfippCozP5dLVjLsdfo46eKwQy1LbGFb4mykxD5xQMb/7898bhSS4Y39RaPaP7D3dVQOp8d+FTrQ==" /&gt;
     &lt;input type="hidden" class="js-site-search-type-field" name="type" &gt;
         &lt;svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"&gt;&lt;path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"&gt;&lt;/path&gt;&lt;path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"&gt;&lt;/path&gt;&lt;/svg&gt;
 
@@ -2613,7 +2626,7 @@ Fork
     <div id="user-content-repo-content-pjax-container" dir="auto">
   <div dir="auto">
 <div dir="auto">
-<p dir="auto"><a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md">Permalink</a></p>
+<p dir="auto"><a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/3ab2f445d8a541398d280133317e59f7367163ff/README.md">Permalink</a></p>
 <div dir="auto">
 <div dir="auto">
   <details id="user-content-branch-select-menu">
@@ -2908,9 +2921,9 @@ Fork
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div class=&quot;overflow-hidden&quot;&gt;This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.&lt;/div&gt;"><pre class="notranslate"><code>  &lt;div class="overflow-hidden"&gt;This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.&lt;/div&gt;
 </code></pre></div>
 </div>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;include-fragment src=&quot;/pimpaoz15/pimpaoz15/spoofed_commit_check/32f887bb855f1aa61910a144568b38059cf4cd2c&quot; data-test-selector=&quot;spoofed-commit-check&quot;&gt;&lt;/include-fragment&gt;
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;include-fragment src=&quot;/pimpaoz15/pimpaoz15/spoofed_commit_check/3ab2f445d8a541398d280133317e59f7367163ff&quot; data-test-selector=&quot;spoofed-commit-check&quot;&gt;&lt;/include-fragment&gt;
 
-&lt;div class=&quot;Box d-flex flex-column flex-shrink-0 mb-3&quot;&gt;"><pre class="notranslate"><code>&lt;include-fragment src="/pimpaoz15/pimpaoz15/spoofed_commit_check/32f887bb855f1aa61910a144568b38059cf4cd2c" data-test-selector="spoofed-commit-check"&gt;&lt;/include-fragment&gt;
+&lt;div class=&quot;Box d-flex flex-column flex-shrink-0 mb-3&quot;&gt;"><pre class="notranslate"><code>&lt;include-fragment src="/pimpaoz15/pimpaoz15/spoofed_commit_check/3ab2f445d8a541398d280133317e59f7367163ff" data-test-selector="spoofed-commit-check"&gt;&lt;/include-fragment&gt;
 
 &lt;div class="Box d-flex flex-column flex-shrink-0 mb-3"&gt;
 </code></pre></div>
@@ -2951,29 +2964,33 @@ class="dropdown details-reset details-overlay"</p>
   
     <div dir="auto">
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div class=&quot;SelectMenu-list SelectMenu-list--borderless p-2&quot; style=&quot;overscroll-behavior: contain;&quot;&gt;
-      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized&quot; style=&quot;-webkit-box-orient: vertical; padding-left: 12px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#hi-im-manuel&quot;&gt;Hi, I'm Manuel&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized&quot; style=&quot;-webkit-box-orient: vertical; padding-left: 12px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#name-already-in-use&quot;&gt;Name already in use&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 24px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#----pimpaoz15readmemd--&quot;&gt;pimpaoz15/README.md&lt;/a&gt;
       &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#student-at-instituto-superior-técnico-lisbon&quot;&gt;Student at Instituto Superior Técnico, Lisbon.&lt;/a&gt;
       &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#github-stats&quot;&gt;Github Stats:&lt;/a&gt;
       &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#languages-and-tools&quot;&gt;Languages and Tools:&lt;/a&gt;
       &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 24px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#visitor-stats&quot;&gt;Visitor Stats&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 24px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#footer&quot;&gt;Footer&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;"&gt;
-      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#hi-im-manuel"&gt;Hi, I'm Manuel&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#name-already-in-use"&gt;Name already in use&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#----pimpaoz15readmemd--"&gt;pimpaoz15/README.md&lt;/a&gt;
       &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#student-at-instituto-superior-técnico-lisbon"&gt;Student at Instituto Superior Técnico, Lisbon.&lt;/a&gt;
       &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#github-stats"&gt;Github Stats:&lt;/a&gt;
       &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#languages-and-tools"&gt;Languages and Tools:&lt;/a&gt;
       &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#visitor-stats"&gt;Visitor Stats&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#footer"&gt;Footer&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </code></pre></div>
   
 
   <div dir="auto">
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  58 lines (51 sloc)
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  1714 lines (1277 sloc)
   &lt;span class=&quot;file-info-divider&quot;&gt;&lt;/span&gt;
-2.95 KB"><pre class="notranslate"><code>  58 lines (51 sloc)
+157 KB"><pre class="notranslate"><code>  1714 lines (1277 sloc)
   &lt;span class="file-info-divider"&gt;&lt;/span&gt;
-2.95 KB
+157 KB
 </code></pre></div>
   </div>
   <div dir="auto">
@@ -2986,10 +3003,10 @@ class="dropdown details-reset details-overlay"</p>
 
 </a>  </div>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;BtnGroup&quot;&gt;
-    &lt;a data-permalink-href=&quot;/pimpaoz15/pimpaoz15/raw/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md&quot; href=&quot;/pimpaoz15/pimpaoz15/raw/main/README.md&quot; id=&quot;raw-url&quot; group_item=&quot;true&quot; data-view-component=&quot;true&quot; class=&quot;js-permalink-replaceable-link Button--secondary Button--small Button&quot;&gt;    &lt;span class=&quot;Button-content&quot;&gt;
+    &lt;a data-permalink-href=&quot;/pimpaoz15/pimpaoz15/raw/3ab2f445d8a541398d280133317e59f7367163ff/README.md&quot; href=&quot;/pimpaoz15/pimpaoz15/raw/main/README.md&quot; id=&quot;raw-url&quot; group_item=&quot;true&quot; data-view-component=&quot;true&quot; class=&quot;js-permalink-replaceable-link Button--secondary Button--small Button&quot;&gt;    &lt;span class=&quot;Button-content&quot;&gt;
   &lt;span class=&quot;Button-label&quot;&gt;Raw&lt;/span&gt;
 &lt;/span&gt;"><pre class="notranslate"><code>&lt;div class="BtnGroup"&gt;
-    &lt;a data-permalink-href="/pimpaoz15/pimpaoz15/raw/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md" href="/pimpaoz15/pimpaoz15/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button"&gt;    &lt;span class="Button-content"&gt;
+    &lt;a data-permalink-href="/pimpaoz15/pimpaoz15/raw/3ab2f445d8a541398d280133317e59f7367163ff/README.md" href="/pimpaoz15/pimpaoz15/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button"&gt;    &lt;span class="Button-content"&gt;
   &lt;span class="Button-label"&gt;Raw&lt;/span&gt;
 &lt;/span&gt;
 </code></pre></div>
@@ -3113,10 +3130,1247 @@ class="dropdown details-reset details-overlay"</p>
 </code></pre></div>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;div id=&quot;readme&quot; class=&quot;Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0&quot;&gt;
+&lt;article class=&quot;markdown-body entry-content container-lg&quot; itemprop=&quot;text&quot;&gt;"><pre class="notranslate"><code>    &lt;div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0"&gt;
+&lt;article class="markdown-body entry-content container-lg" itemprop="text"&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;meta name=&quot;optimizely-datafile&quot; content=&quot;{&amp;quot;groups&amp;quot;: [], &amp;quot;environmentKey&amp;quot;: &amp;quot;production&amp;quot;, &amp;quot;rollouts&amp;quot;: [], &amp;quot;typedAudiences&amp;quot;: [], &amp;quot;projectId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;variables&amp;quot;: [], &amp;quot;featureFlags&amp;quot;: [], &amp;quot;experiments&amp;quot;: [], &amp;quot;version&amp;quot;: &amp;quot;4&amp;quot;, &amp;quot;audiences&amp;quot;: [{&amp;quot;conditions&amp;quot;: &amp;quot;[\&amp;quot;or\&amp;quot;, {\&amp;quot;match\&amp;quot;: \&amp;quot;exact\&amp;quot;, \&amp;quot;name\&amp;quot;: \&amp;quot;$opt_dummy_attribute\&amp;quot;, \&amp;quot;type\&amp;quot;: \&amp;quot;custom_attribute\&amp;quot;, \&amp;quot;value\&amp;quot;: \&amp;quot;$opt_dummy_value\&amp;quot;}]&amp;quot;, &amp;quot;id&amp;quot;: &amp;quot;$opt_dummy_audience&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;Optimizely-Generated Audience for Backwards Compatibility&amp;quot;}], &amp;quot;anonymizeIP&amp;quot;: true, &amp;quot;sdkKey&amp;quot;: &amp;quot;WTc6awnGuYDdG98CYRban&amp;quot;, &amp;quot;attributes&amp;quot;: [{&amp;quot;id&amp;quot;: &amp;quot;16822470375&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;user_id&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;17143601254&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;spammy&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18175660309&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;organization_plan&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18813001570&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;is_logged_in&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;19073851829&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;geo&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20175462351&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;requestedCurrency&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20785470195&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;country_code&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;21656311196&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;opened_downgrade_dialog&amp;quot;}], &amp;quot;botFiltering&amp;quot;: false, &amp;quot;accountId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;events&amp;quot;: [{&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;17911811441&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;hydro_click.dashboard.teacher_toolbox_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18124116703&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organizations.complete_sign_up&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18145892387&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;no_metric.tracked_outside_of_optimizely&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18178755568&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.add_repo&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18180553241&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.repository_imports.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18186103728&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.help.learn_more_about_repository_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18188530140&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;test_event&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18191963644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.transfer_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18195612788&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.import_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18210945499&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.invite_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18211063248&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.create_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18215721889&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.update_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18224360785&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.dismiss&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18234832286&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_activation.complete&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18252392383&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_repository.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18257551537&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_member_invitation.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18259522260&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_profile.update&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18564603625&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18568612016&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_sign_in_click&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18572592540&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_name&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18574203855&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18582053415&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18589463420&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591323364&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_first_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591652321&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_grant_access&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18607131425&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18831680583&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;upgrade_account_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19064064515&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19075373687&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.view_account_billing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19077355841&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_signup_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19079713938&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.contact_sales&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19120963070&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.compare_account_plans&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19151690317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_account_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19424193129&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.open_account_switcher&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19520330825&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.visit_account_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19540970635&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.switch_account_context&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19730198868&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19820830627&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19988571001&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20036538294&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20040653299&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.input_enterprise_trial_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20062030003&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.continue_with_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20068947153&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20086636658&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.username&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20091648988&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20103637615&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20111574253&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.password&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20120044111&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.pricing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20152062109&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20165800992&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.upgrade_payment_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20171520319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20222645674&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.discuss_your_needs&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20227443657&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.verify_primary_user_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20234607160&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.try_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20238175784&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20239847212&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.continue_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20251097193&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;recommended_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20438619534&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.1_member&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20456699683&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.15_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20467868331&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.10_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476267432&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.trial_days_remaining&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476357660&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.discover_feature&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20479287901&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.custom_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20481107083&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_teacher_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20483089392&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.5_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20484283944&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20484996281&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_student_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20486713726&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task_breadcrumb&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20490791319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_to_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20491786766&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.talk_to_us&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20494144087&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20499722759&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_all_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20500710104&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_onboarding_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20513160672&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.read_doc&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20516196762&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;actions_enabled&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20518980986&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_trial_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20535446721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.dismiss_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20557002247&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20595070227&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pull_request_setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20626600314&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.seats_input&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20642310305&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.decrease_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20662990045&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.increase_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20679620969&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.public_product_roadmap&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20761240940&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_survey_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20767210721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.take_survey&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20795281201&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.archive_list&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20966790249&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996500333&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.existing_customer&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996890162&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_message_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21000470317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.personal_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21002790172&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_phone_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21354412592&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21366102546&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21370252505&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;account_did_downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21370840408&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21375451068&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_new_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21385390948&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21467712175&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_keep&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21484112202&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21495292213&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21508241468&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21512030356&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_support&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21539090022&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21543640644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click_fetch_upstream&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21646510300&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.move_your_work&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21656151116&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.add_branch_protection_rule&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21663860599&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_dialog_open&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21687860483&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.learn_about_protected_branches&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21689050333&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_protect_this_branch&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21864370109&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.sign_in&amp;quot;}], &amp;quot;revision&amp;quot;: &amp;quot;1372&amp;quot;}&quot; /&gt;"><pre class="notranslate"><code>&lt;meta name="optimizely-datafile" content="{&amp;quot;groups&amp;quot;: [], &amp;quot;environmentKey&amp;quot;: &amp;quot;production&amp;quot;, &amp;quot;rollouts&amp;quot;: [], &amp;quot;typedAudiences&amp;quot;: [], &amp;quot;projectId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;variables&amp;quot;: [], &amp;quot;featureFlags&amp;quot;: [], &amp;quot;experiments&amp;quot;: [], &amp;quot;version&amp;quot;: &amp;quot;4&amp;quot;, &amp;quot;audiences&amp;quot;: [{&amp;quot;conditions&amp;quot;: &amp;quot;[\&amp;quot;or\&amp;quot;, {\&amp;quot;match\&amp;quot;: \&amp;quot;exact\&amp;quot;, \&amp;quot;name\&amp;quot;: \&amp;quot;$opt_dummy_attribute\&amp;quot;, \&amp;quot;type\&amp;quot;: \&amp;quot;custom_attribute\&amp;quot;, \&amp;quot;value\&amp;quot;: \&amp;quot;$opt_dummy_value\&amp;quot;}]&amp;quot;, &amp;quot;id&amp;quot;: &amp;quot;$opt_dummy_audience&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;Optimizely-Generated Audience for Backwards Compatibility&amp;quot;}], &amp;quot;anonymizeIP&amp;quot;: true, &amp;quot;sdkKey&amp;quot;: &amp;quot;WTc6awnGuYDdG98CYRban&amp;quot;, &amp;quot;attributes&amp;quot;: [{&amp;quot;id&amp;quot;: &amp;quot;16822470375&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;user_id&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;17143601254&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;spammy&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18175660309&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;organization_plan&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18813001570&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;is_logged_in&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;19073851829&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;geo&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20175462351&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;requestedCurrency&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20785470195&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;country_code&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;21656311196&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;opened_downgrade_dialog&amp;quot;}], &amp;quot;botFiltering&amp;quot;: false, &amp;quot;accountId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;events&amp;quot;: [{&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;17911811441&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;hydro_click.dashboard.teacher_toolbox_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18124116703&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organizations.complete_sign_up&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18145892387&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;no_metric.tracked_outside_of_optimizely&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18178755568&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.add_repo&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18180553241&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.repository_imports.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18186103728&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.help.learn_more_about_repository_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18188530140&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;test_event&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18191963644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.transfer_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18195612788&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.import_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18210945499&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.invite_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18211063248&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.create_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18215721889&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.update_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18224360785&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.dismiss&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18234832286&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_activation.complete&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18252392383&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_repository.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18257551537&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_member_invitation.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18259522260&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_profile.update&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18564603625&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18568612016&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_sign_in_click&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18572592540&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_name&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18574203855&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18582053415&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18589463420&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591323364&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_first_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591652321&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_grant_access&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18607131425&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18831680583&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;upgrade_account_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19064064515&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19075373687&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.view_account_billing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19077355841&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_signup_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19079713938&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.contact_sales&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19120963070&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.compare_account_plans&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19151690317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_account_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19424193129&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.open_account_switcher&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19520330825&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.visit_account_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19540970635&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.switch_account_context&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19730198868&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19820830627&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19988571001&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20036538294&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20040653299&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.input_enterprise_trial_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20062030003&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.continue_with_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20068947153&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20086636658&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.username&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20091648988&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20103637615&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20111574253&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.password&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20120044111&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.pricing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20152062109&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20165800992&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.upgrade_payment_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20171520319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20222645674&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.discuss_your_needs&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20227443657&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.verify_primary_user_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20234607160&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.try_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20238175784&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20239847212&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.continue_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20251097193&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;recommended_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20438619534&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.1_member&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20456699683&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.15_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20467868331&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.10_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476267432&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.trial_days_remaining&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476357660&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.discover_feature&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20479287901&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.custom_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20481107083&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_teacher_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20483089392&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.5_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20484283944&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20484996281&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_student_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20486713726&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task_breadcrumb&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20490791319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_to_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20491786766&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.talk_to_us&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20494144087&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20499722759&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_all_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20500710104&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_onboarding_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20513160672&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.read_doc&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20516196762&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;actions_enabled&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20518980986&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_trial_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20535446721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.dismiss_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20557002247&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20595070227&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pull_request_setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20626600314&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.seats_input&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20642310305&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.decrease_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20662990045&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.increase_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20679620969&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.public_product_roadmap&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20761240940&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_survey_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20767210721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.take_survey&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20795281201&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.archive_list&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20966790249&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996500333&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.existing_customer&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996890162&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_message_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21000470317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.personal_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21002790172&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_phone_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21354412592&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21366102546&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21370252505&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;account_did_downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21370840408&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21375451068&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_new_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21385390948&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21467712175&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_keep&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21484112202&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21495292213&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21508241468&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21512030356&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_support&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21539090022&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21543640644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click_fetch_upstream&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21646510300&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.move_your_work&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21656151116&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.add_branch_protection_rule&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21663860599&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_dialog_open&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21687860483&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.learn_about_protected_branches&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21689050333&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_protect_this_branch&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21864370109&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.sign_in&amp;quot;}], &amp;quot;revision&amp;quot;: &amp;quot;1372&amp;quot;}" /&gt;
+</code></pre></div></div>
+  &lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/wp-runtime-a2ded9fe951e.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/wp-runtime-a2ded9fe951e.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-ae93d3fba59c.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-ae93d3fba59c.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-899d6d5b0d82.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-899d6d5b0d82.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/environment-07edc14d05eb.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/environment-07edc14d05eb.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-2646a2c533e3.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-2646a2c533e3.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-99e288659d4f.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-99e288659d4f.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-496d76cca51c.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-496d76cca51c.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_auto-complete-element-5b3870-ff38694180c6.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_auto-complete-element-5b3870-ff38694180c6.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-7ecc10fb88d0.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-7ecc10fb88d0.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1569f-eb0e0c1e5438.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1569f-eb0e0c1e5438.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-3af896-d8cf3e5f5813.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-3af896-d8cf3e5f5813.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/github-elements-895dc242ef37.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/github-elements-895dc242ef37.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/element-registry-2b4c6cb03489.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/element-registry-2b4c6cb03489.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-424aa982deef.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-424aa982deef.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ba0e4d5b3207.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_turbo_dist_turbo_es2017-esm_js-ba0e4d5b3207.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-node_modules_github_jtml_lib_index_js-40bf234a19dc.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_color-convert_index_js-node_modules_github_jtml_lib_index_js-40bf234a19dc.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-52dc4b-e1e33bfc0b7e.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_scroll-anchoring_dist_scro-52dc4b-e1e33bfc0b7e.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-0ea842-0c42838a12e3.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-0ea842-0c42838a12e3.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-dadb69f79923.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-dadb69f79923.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-f5afdb-3a77a772cd4d.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-f5afdb-3a77a772cd4d.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-050ad6637d58.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-050ad6637d58.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-7effad8d88d4.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-7effad8d88d4.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c97eacdef68a.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c97eacdef68a.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-e5f169-c54621d9e188.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-e5f169-c54621d9e188.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/behaviors-64e2c8665c6a.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/behaviors-64e2c8665c6a.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-623425af41e1.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-623425af41e1.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/notifications-global-0104a8043aa4.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/notifications-global-0104a8043aa4.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-089adc-2328ba323205.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-089adc-2328ba323205.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/optimizely-c6fa9687eddf.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/optimizely-c6fa9687eddf.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-c3e624db1d89.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-c3e624db1d89.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_remote-form_-e3de2b-779fd9166293.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_remote-form_-e3de2b-779fd9166293.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_filter--b2311f-15fe0f17a114.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_filter--b2311f-15fe0f17a114.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_ref-selector_ts-9370fb29d0d4.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_ref-selector_ts-9370fb29d0d4.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/repositories-8a228c161ab4.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/repositories-8a228c161ab4.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_scroll-anch-c93c97-d63d35dd5d0b.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_scroll-anch-c93c97-d63d35dd5d0b.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f96c66-97aade341120.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-f96c66-97aade341120.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/diffs-28add6b184d2.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/diffs-28add6b184d2.js"&gt;&lt;/script&gt;</a>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/code-menu-7dfb8cccdca1.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/code-menu-7dfb8cccdca1.js"&gt;&lt;/script&gt;</a>
+  &lt;title&gt;pimpaoz15/README.md at main · pimpaoz15/pimpaoz15 · GitHub&lt;/title&gt;
+<p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;meta name=&quot;hovercard-subject-tag&quot; content=&quot;repository:649307142&quot; data-turbo-transient&gt;"><pre class="notranslate"><code>&lt;meta name="hovercard-subject-tag" content="repository:649307142" data-turbo-transient&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;meta name=&quot;google-site-verification&quot; content=&quot;c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY&quot;&gt;"><pre class="notranslate"><code>&lt;meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY"&gt;
+</code></pre></div></div>
+<div dir="auto">https://github.com/fluidicon.png" title="GitHub"&gt;
+&lt;meta property="fb:app_id" content="1401488693436528"&gt;
+&lt;meta name="apple-itunes-app" content="app-id=1477376905" /&gt;
+&lt;meta name="twitter:image:src" content="<a href="https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15" rel="nofollow">https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta name="twitter:site" content="@github" /&gt;&lt;meta name="twitter:card" content="summary_large_image" /&gt;&lt;meta name="twitter:title" content="pimpaoz15/README.md at main · pimpaoz15/pimpaoz15" /&gt;&lt;meta name="twitter:description" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;
+&lt;meta property="og:image" content="<a href="https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15" rel="nofollow">https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta property="og:image:alt" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;&lt;meta property="og:image:width" content="1200" /&gt;&lt;meta property="og:image:height" content="600" /&gt;&lt;meta property="og:site_name" content="GitHub" /&gt;&lt;meta property="og:type" content="object" /&gt;&lt;meta property="og:title" content="pimpaoz15/README.md at main · pimpaoz15/pimpaoz15" /&gt;&lt;meta property="og:url" content="<a href="https://github.com/pimpaoz15/pimpaoz15">https://github.com/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta property="og:description" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&amp;lt;meta name=&amp;quot;hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt;
+
+
+
+&amp;lt;meta name=&amp;quot;expected-hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt;"><pre class="notranslate"><code>&amp;lt;meta name=&amp;quot;hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt;
+
+
+
+&amp;lt;meta name=&amp;quot;expected-hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt;
+</code></pre></div>
+<p dir="auto">&lt;meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,SUDO_MODAL_FOCUS"&gt;"&gt;</p><pre><code>&lt;meta name="user-login" content=""&gt;<p dir="auto"></p>
+<p dir="auto">&lt;meta name="viewport" content="width=device-width"&gt;</p>
+<p dir="auto">&lt;meta name="description" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub."&gt;
+&lt;link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub"&gt;
+&lt;link rel="fluid-icon" href="<a href="https://github.com/fluidicon.png">https://github.com/fluidicon.png</a>" title="GitHub"&gt;
+&lt;meta property="fb:app_id" content="1401488693436528"&gt;
+&lt;meta name="apple-itunes-app" content="app-id=1477376905" /&gt;
+&lt;meta name="twitter:image:src" content="<a href="https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15" rel="nofollow">https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta name="twitter:site" content="@github" /&gt;&lt;meta name="twitter:card" content="summary_large_image" /&gt;&lt;meta name="twitter:title" content="pimpaoz15/README.md at main · pimpaoz15/pimpaoz15" /&gt;&lt;meta name="twitter:description" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;
+&lt;meta property="og:image" content="<a href="https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15" rel="nofollow">https://opengraph.githubassets.com/90bc76370914200eae791e2ae0b5a8c19bee7e91ce8b6335d52da65acbe00931/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta property="og:image:alt" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;&lt;meta property="og:image:width" content="1200" /&gt;&lt;meta property="og:image:height" content="600" /&gt;&lt;meta property="og:site_name" content="GitHub" /&gt;&lt;meta property="og:type" content="object" /&gt;&lt;meta property="og:title" content="pimpaoz15/README.md at main · pimpaoz15/pimpaoz15" /&gt;&lt;meta property="og:url" content="<a href="https://github.com/pimpaoz15/pimpaoz15">https://github.com/pimpaoz15/pimpaoz15</a>" /&gt;&lt;meta property="og:description" content="Contribute to pimpaoz15/pimpaoz15 development by creating an account on GitHub." /&gt;</p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&amp;lt;meta name=&quot;hostname&quot; content=&quot;github.com&quot;&amp;gt;
+
+
+
+&amp;lt;meta name=&quot;expected-hostname&quot; content=&quot;github.com&quot;&amp;gt;"><pre class="notranslate"><code>&amp;lt;meta name="hostname" content="github.com"&amp;gt;
+
+
+
+&amp;lt;meta name="expected-hostname" content="github.com"&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,SUDO_MODAL_FOCUS"&gt;
+</code></p></pre></div><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;meta data-hydrostats=&quot;publish&quot;&gt;"><pre class="notranslate"><code>    &lt;meta data-hydrostats="publish"&gt;
+</code></pre></div></div>
+<p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;link rel=&quot;canonical&quot; href=&quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&quot; data-turbo-transient&gt;"><pre class="notranslate"><code>&lt;link rel="canonical" href="https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md" data-turbo-transient&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div dir=&quot;auto&quot;&gt;"><pre class="notranslate"><code>&lt;div dir="auto"&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;position-relative js-header-wrapper &quot;&gt;
+  &lt;a href=&quot;#start-of-content&quot; class=&quot;px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content&quot;&gt;Skip to content&lt;/a&gt;
+  &lt;span data-view-component=&quot;true&quot; class=&quot;progress-pjax-loader Progress position-fixed width-full&quot;&gt;
+&lt;span style=&quot;width: 0%;&quot; data-view-component=&quot;true&quot; class=&quot;Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis&quot;&gt;&lt;/span&gt;"><pre class="notranslate"><code>&lt;div class="position-relative js-header-wrapper "&gt;
+  &lt;a href="#start-of-content" class="px-2 py-4 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content"&gt;Skip to content&lt;/a&gt;
+  &lt;span data-view-component="true" class="progress-pjax-loader Progress position-fixed width-full"&gt;
+&lt;span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"&gt;&lt;/span&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_memoize_dist_esm_in-687f35-d131f0b6de8e.js&quot;&gt;&lt;/script&gt;"><pre class="notranslate"><code>        &lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_memoize_dist_esm_in-687f35-d131f0b6de8e.js"&gt;&lt;/script&gt;
+</code></pre></div></div>
+&lt;script crossorigin="anonymous" defer="defer" type="application/javascript" src="<a href="https://github.githubassets.com/assets/sessions-2638decb9ee5.js&quot;&gt;&lt;/script&gt;" rel="nofollow">https://github.githubassets.com/assets/sessions-2638decb9ee5.js"&gt;&lt;/script&gt;</a>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;span&gt;Toggle navigation&lt;/span&gt;"><pre class="notranslate"><code>&lt;span&gt;Toggle navigation&lt;/span&gt;
+</code></pre></div>
+  <div dir="auto">
+    <div dir="auto">
+      <a href="https://github.com/" aria-label="Homepage">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;/a&gt;"><pre class="notranslate"><code>  &lt;/a&gt;
+</code></pre></div>
+</a><div dir="auto"><code>    &lt;div class="flex-1"&gt;
+&lt;a href="/signup?ref_cta=Sign+up&amp;amp;ref_loc=header+logged+out&amp;amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;amp;source=header-repo"
+class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
+data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;authentication.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;location_in_page&amp;quot;:&amp;quot;site header&amp;quot;,&amp;quot;repository_id&amp;quot;:null,&amp;quot;auth_type&amp;quot;:&amp;quot;SIGN_UP&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;</code><code><a href="https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null%7D%7D">https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null}}</a>" data-hydro-click-hmac="d5f5f56bc5dbc35980c6b0b4eefb74df1e815ea9f9d2a4d3939fc501cc219b15"
+&gt;
+Sign&amp;nbsp;up
+&lt;/a&gt;
+&lt;/div&gt;<p dir="auto"></p>
+</code><p dir="auto"><code>&lt;div class="flex-1 flex-order-2 text-right"&gt;
+&lt;button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="js-details-target Button--link Button--medium Button d-lg-none color-fg-inherit p-1"&gt;    &lt;span class="Button-content"&gt;
+&lt;span class="Button-label"&gt;&lt;div class="HeaderMenu-toggle-bar rounded my-1"&gt;&lt;/div&gt;
+&lt;div class="HeaderMenu-toggle-bar rounded my-1"&gt;&lt;/div&gt;
+&lt;div class="HeaderMenu-toggle-bar rounded my-1"&gt;&lt;/div&gt;&lt;/span&gt;
+&lt;/span&gt;
+</code></p></div><p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;/div&gt;
+&lt;/div&gt;"><pre class="notranslate"><code>  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0&quot;&gt;
+  &lt;div class=&quot;header-menu-wrapper d-flex flex-column flex-self-end flex-lg-row flex-justify-between flex-auto p-3 p-lg-0 rounded rounded-lg-0 mt-3 mt-lg-0&quot;&gt;
+      &lt;nav class=&quot;mt-0 px-3 px-lg-0 mb-3 mb-lg-0&quot; aria-label=&quot;Global&quot;&gt;
+        &lt;ul class=&quot;d-lg-flex list-style-none&quot;&gt;
+            &lt;li class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target&quot; aria-expanded=&quot;false&quot;&gt;
+    Product
+    &lt;svg opacity=&quot;0.5&quot; aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-chevron-down HeaderMenu-icon ml-1&quot;&gt;
+&lt;path d=&quot;M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;div class="HeaderMenu--logged-out p-responsive height-fit position-lg-relative d-lg-flex flex-column flex-auto pt-7 pb-4 top-0"&gt;
+  &lt;div class="header-menu-wrapper d-flex flex-column flex-self-end flex-lg-row flex-justify-between flex-auto p-3 p-lg-0 rounded rounded-lg-0 mt-3 mt-lg-0"&gt;
+      &lt;nav class="mt-0 px-3 px-lg-0 mb-3 mb-lg-0" aria-label="Global"&gt;
+        &lt;ul class="d-lg-flex list-style-none"&gt;
+            &lt;li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item"&gt;
+  &lt;button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false"&gt;
+    Product
+    &lt;svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1"&gt;
+&lt;path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+      &lt;div dir=&quot;auto&quot;&gt;
+        &lt;ul dir=&quot;auto&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+      &lt;div dir="auto"&gt;
+        &lt;ul dir="auto"&gt;
+            &lt;li&gt;
+</code></pre></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/actions">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Actions&lt;/div&gt;
+    Automate any workflow
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Actions&lt;/div&gt;
+    Automate any workflow
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/packages">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Packages&lt;/div&gt;
+    Host and manage packages
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Packages&lt;/div&gt;
+    Host and manage packages
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/security">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Security&lt;/div&gt;
+    Find and fix vulnerabilities
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Security&lt;/div&gt;
+    Find and fix vulnerabilities
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/codespaces">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Codespaces&lt;/div&gt;
+    Instant dev environments
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Codespaces&lt;/div&gt;
+    Instant dev environments
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/copilot">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Copilot&lt;/div&gt;
+    Write better code with AI
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Copilot&lt;/div&gt;
+    Write better code with AI
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/code-review">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Code review&lt;/div&gt;
+    Manage code changes
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Code review&lt;/div&gt;
+    Manage code changes
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/issues">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Issues&lt;/div&gt;
+    Plan and track work
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Issues&lt;/div&gt;
+    Plan and track work
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features/discussions">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+    &lt;div dir=&quot;auto&quot;&gt;Discussions&lt;/div&gt;
+    Collaborate outside of code
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+    &lt;div dir="auto"&gt;Discussions&lt;/div&gt;
+    Collaborate outside of code
+  &lt;/div&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;px-lg-4&quot;&gt;
+          &lt;span class=&quot;d-block h4 color-fg-default my-1&quot; id=&quot;product-explore-heading&quot;&gt;Explore&lt;/span&gt;
+        &lt;ul class=&quot;list-style-none f5&quot; aria-labelledby=&quot;product-explore-heading&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class="px-lg-4"&gt;
+          &lt;span class="d-block h4 color-fg-default my-1" id="product-explore-heading"&gt;Explore&lt;/span&gt;
+        &lt;ul class="list-style-none f5" aria-labelledby="product-explore-heading"&gt;
+            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/features">
+      All features
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://docs.github.com">
+      Documentation
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://skills.github.com/">
+      GitHub Skills
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://github.blog" rel="nofollow">
+      Blog
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target&quot; aria-expanded=&quot;false&quot;&gt;
+    Solutions
+    &lt;svg opacity=&quot;0.5&quot; aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-chevron-down HeaderMenu-icon ml-1&quot;&gt;
+&lt;path d=&quot;M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>            &lt;li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item"&gt;
+  &lt;button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false"&gt;
+    Solutions
+    &lt;svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1"&gt;
+&lt;path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+      &lt;div dir=&quot;auto&quot;&gt;
+          &lt;span id=&quot;user-content-solutions-for-heading&quot;&gt;For&lt;/span&gt;
+        &lt;ul aria-labelledby=&quot;user-content-solutions-for-heading&quot; dir=&quot;auto&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+      &lt;div dir="auto"&gt;
+          &lt;span id="user-content-solutions-for-heading"&gt;For&lt;/span&gt;
+        &lt;ul aria-labelledby="user-content-solutions-for-heading" dir="auto"&gt;
+            &lt;li&gt;
+</code></pre></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/enterprise">
+      Enterprise
+</a><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/team">
+      Teams
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/enterprise/startups">
+      Startups
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://education.github.com">
+      Education
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;border-bottom pb-3 mb-3&quot;&gt;
+          &lt;span class=&quot;d-block h4 color-fg-default my-1&quot; id=&quot;solutions-by-solution-heading&quot;&gt;By Solution&lt;/span&gt;
+        &lt;ul class=&quot;list-style-none f5&quot; aria-labelledby=&quot;solutions-by-solution-heading&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class="border-bottom pb-3 mb-3"&gt;
+          &lt;span class="d-block h4 color-fg-default my-1" id="solutions-by-solution-heading"&gt;By Solution&lt;/span&gt;
+        &lt;ul class="list-style-none f5" aria-labelledby="solutions-by-solution-heading"&gt;
+            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/solutions/ci-cd">
+      CI/CD &amp; Automation
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://resources.github.com/devops/">
+      DevOps
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://resources.github.com/devops/fundamentals/devsecops/">
+      DevSecOps
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;&quot;&gt;
+          &lt;span class=&quot;d-block h4 color-fg-default my-1&quot; id=&quot;solutions-case-studies-heading&quot;&gt;Case Studies&lt;/span&gt;
+        &lt;ul class=&quot;list-style-none f5&quot; aria-labelledby=&quot;solutions-case-studies-heading&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=""&gt;
+          &lt;span class="d-block h4 color-fg-default my-1" id="solutions-case-studies-heading"&gt;Case Studies&lt;/span&gt;
+        &lt;ul class="list-style-none f5" aria-labelledby="solutions-case-studies-heading"&gt;
+            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/customer-stories">
+      Customer Stories
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="https://resources.github.com/">
+      Resources
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle&quot;&gt;
+&lt;path d=&quot;M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle"&gt;
+&lt;path d="M3.75 2h3.5a.75.75 0 0 1 0 1.5h-3.5a.25.25 0 0 0-.25.25v8.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-3.5a.75.75 0 0 1 1.5 0v3.5A1.75 1.75 0 0 1 12.25 14h-8.5A1.75 1.75 0 0 1 2 12.25v-8.5C2 2.784 2.784 2 3.75 2Zm6.854-1h4.146a.25.25 0 0 1 .25.25v4.146a.25.25 0 0 1-.427.177L13.03 4.03 9.28 7.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.75-3.75-1.543-1.543A.25.25 0 0 1 10.604 1Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+</a>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target&quot; aria-expanded=&quot;false&quot;&gt;
+    Open Source
+    &lt;svg opacity=&quot;0.5&quot; aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-chevron-down HeaderMenu-icon ml-1&quot;&gt;
+&lt;path d=&quot;M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>            &lt;li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item"&gt;
+  &lt;button type="button" class="HeaderMenu-link border-0 width-full width-lg-auto px-0 px-lg-2 py-3 py-lg-2 no-wrap d-flex flex-items-center flex-justify-between js-details-target" aria-expanded="false"&gt;
+    Open Source
+    &lt;svg opacity="0.5" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-chevron-down HeaderMenu-icon ml-1"&gt;
+&lt;path d="M12.78 5.22a.749.749 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.06 0L3.22 6.28a.749.749 0 1 1 1.06-1.06L8 8.939l3.72-3.719a.749.749 0 0 1 1.06 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;
+      &lt;div dir=&quot;auto&quot;&gt;
+        &lt;ul dir=&quot;auto&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;
+      &lt;div dir="auto"&gt;
+        &lt;ul dir="auto"&gt;
+            &lt;li&gt;
+</code></pre></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/sponsors">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div&gt;
+    &lt;div class=&quot;color-fg-default h4&quot;&gt;GitHub Sponsors&lt;/div&gt;
+    Fund open source developers
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div&gt;
+    &lt;div class="color-fg-default h4"&gt;GitHub Sponsors&lt;/div&gt;
+    Fund open source developers
+  &lt;/div&gt;
+</code></pre></div></div>
+</a><p dir="auto"></p><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;border-bottom pb-3 mb-3&quot;&gt;
+        &lt;ul class=&quot;list-style-none f5&quot; &gt;
+            &lt;li&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class="border-bottom pb-3 mb-3"&gt;
+        &lt;ul class="list-style-none f5" &gt;
+            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/readme">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div&gt;
+    &lt;div class=&quot;color-fg-default h4&quot;&gt;The ReadME Project&lt;/div&gt;
+    GitHub community articles
+  &lt;/div&gt;"><pre class="notranslate"><code>  &lt;div&gt;
+    &lt;div class="color-fg-default h4"&gt;The ReadME Project&lt;/div&gt;
+    GitHub community articles
+  &lt;/div&gt;
+</code></pre></div></div>
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;&quot;&gt;
+          &lt;span class=&quot;d-block h4 color-fg-default my-1&quot; id=&quot;open-source-repositories-heading&quot;&gt;Repositories&lt;/span&gt;
+        &lt;ul class=&quot;list-style-none f5&quot; aria-labelledby=&quot;open-source-repositories-heading&quot;&gt;
+            &lt;li&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=""&gt;
+          &lt;span class="d-block h4 color-fg-default my-1" id="open-source-repositories-heading"&gt;Repositories&lt;/span&gt;
+        &lt;ul class="list-style-none f5" aria-labelledby="open-source-repositories-heading"&gt;
+            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/topics">
+      Topics
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/trending">
+      Trending
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li&gt;"><pre class="notranslate"><code>            &lt;li&gt;
+</code></pre></div></div>
+  <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/collections">
+      Collections
+</a><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;"><pre class="notranslate"><code>        &lt;/ul&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            &lt;li class=&quot;HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item&quot;&gt;
+&lt;a class=&quot;HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Header menu top item (logged out)&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;click to go to Pricing&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;ref_cta:Pricing;&amp;quot;}&quot; href=&quot;/pricing&quot;&gt;Pricing&lt;/a&gt;"><pre class="notranslate"><code>            &lt;li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item"&gt;
+&lt;a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Header menu top item (logged out)&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;click to go to Pricing&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;ref_cta:Pricing;&amp;quot;}" href="/pricing"&gt;Pricing&lt;/a&gt;
+</code></pre></div></div>
+<div dir="auto">
+  <div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;code&gt;      placeholder=&quot;Search&quot;
+  data-unscoped-placeholder=&quot;Search GitHub&quot;
+  data-scoped-placeholder=&quot;Search&quot;
+  autocapitalize=&quot;off&quot;
+  role=&quot;combobox&quot;
+  aria-haspopup=&quot;listbox&quot;
+  aria-expanded=&quot;false&quot;
+  aria-autocomplete=&quot;list&quot;
+  aria-controls=&quot;jump-to-results&quot;
+  aria-label=&quot;Search&quot;
+  data-jump-to-suggestions-path=&quot;/_graphql/GetSuggestedNavigationDestinations&quot;
+  spellcheck=&quot;false&quot;
+  autocomplete=&quot;off&quot;
+&amp;gt;
+&amp;lt;input type=&quot;hidden&quot; data-csrf=&quot;true&quot; class=&quot;js-data-jump-to-suggestions-path-csrf&quot; value=&quot;Q6+ojHzNNM9ZKg1VbnF+9YmNGsKs47el1errm5DRI+OIkFBy9IJNClK71wGHMO/cQOhodQNAyCudaFn6AOsYFg==&quot; /&amp;gt;
+&amp;lt;input type=&quot;hidden&quot; class=&quot;js-site-search-type-field&quot; name=&quot;type&quot; &amp;gt;
+    &amp;lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;22&quot; height=&quot;20&quot; aria-hidden=&quot;true&quot; class=&quot;mr-1 header-search-key-slash&quot;&amp;gt;&amp;lt;path fill=&quot;none&quot; stroke=&quot;#979A9C&quot; opacity=&quot;.4&quot; d=&quot;M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z&quot;&amp;gt;&amp;lt;/path&amp;gt;&amp;lt;path fill=&quot;#979A9C&quot; d=&quot;M11.8 6L8 15.1h-.9L10.8 6h1z&quot;&amp;gt;&amp;lt;/path&amp;gt;&amp;lt;/svg&amp;gt;
+
+
+  &amp;lt;div class=&quot;Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container&quot;&amp;gt;"><pre class="notranslate"><code>    &lt;code&gt;      placeholder="Search"
+  data-unscoped-placeholder="Search GitHub"
+  data-scoped-placeholder="Search"
+  autocapitalize="off"
+  role="combobox"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+  aria-autocomplete="list"
+  aria-controls="jump-to-results"
+  aria-label="Search"
+  data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+  spellcheck="false"
+  autocomplete="off"
+&amp;gt;
+&amp;lt;input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Q6+ojHzNNM9ZKg1VbnF+9YmNGsKs47el1errm5DRI+OIkFBy9IJNClK71wGHMO/cQOhodQNAyCudaFn6AOsYFg==" /&amp;gt;
+&amp;lt;input type="hidden" class="js-site-search-type-field" name="type" &amp;gt;
+    &amp;lt;svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"&amp;gt;&amp;lt;path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"&amp;gt;&amp;lt;/path&amp;gt;&amp;lt;path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"&amp;gt;&amp;lt;/path&amp;gt;&amp;lt;/svg&amp;gt;
+
+
+  &amp;lt;div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container"&amp;gt;
+</code></pre></div>
+
+<ul dir="auto">
+<li>
+  <a tabindex="-1" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main">
+    </a><div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><code>&lt;img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28"&gt;<p dir="auto"></p>
+<p dir="auto">&lt;div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target"&gt;
+&lt;/div&gt;</p>
+<p dir="auto">&lt;div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search"&gt;
+&lt;span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"&gt;
+In this repository
+&lt;/span&gt;
+&lt;span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"&gt;
+All GitHub
+&lt;/span&gt;
+&lt;span aria-hidden="true" class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;</p>
+</code><p dir="auto"><code>&lt;div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump"&gt;
+Jump to
+&lt;span class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;
+</code></p></div>
+<p dir="auto"></p>
+</div></li>
+</ul>
+<ul dir="auto">
+  <li>
+    <span>No suggested jump to results</span>
+  </li>
+</ul>
+<ul id="user-content-jump-to-results" dir="auto">
+<li>
+  <a tabindex="-1" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main">
+    </a><div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><code>&lt;img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28"&gt;<p dir="auto"></p>
+<p dir="auto">&lt;div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target"&gt;
+&lt;/div&gt;</p>
+<p dir="auto">&lt;div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search"&gt;
+&lt;span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"&gt;
+In this repository
+&lt;/span&gt;
+&lt;span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"&gt;
+All GitHub
+&lt;/span&gt;
+&lt;span aria-hidden="true" class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;</p>
+</code><p dir="auto"><code>&lt;div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump"&gt;
+Jump to
+&lt;span class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;
+</code></p></div>
+<p dir="auto"></p>
+</div></li>
+<li>
+  <a tabindex="-1" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main">
+    </a><div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><code>&lt;img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28"&gt;<p dir="auto"></p>
+<p dir="auto">&lt;div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target"&gt;
+&lt;/div&gt;</p>
+<p dir="auto">&lt;div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search"&gt;
+&lt;span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user"&gt;
+In this user
+&lt;/span&gt;
+&lt;span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"&gt;
+All GitHub
+&lt;/span&gt;
+&lt;span aria-hidden="true" class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;</p>
+</code><p dir="auto"><code>&lt;div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump"&gt;
+Jump to
+&lt;span class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;
+</code></p></div>
+<p dir="auto"></p>
+</div></li>
+<li>
+  <a tabindex="-1" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main">
+    </a><div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><code>&lt;img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28"&gt;<p dir="auto"></p>
+<p dir="auto">&lt;div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target"&gt;
+&lt;/div&gt;</p>
+<p dir="auto">&lt;div class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search"&gt;
+&lt;span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository"&gt;
+In this repository
+&lt;/span&gt;
+&lt;span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub"&gt;
+All GitHub
+&lt;/span&gt;
+&lt;span aria-hidden="true" class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;</p>
+</code><p dir="auto"><code>&lt;div aria-hidden="true" class="border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump"&gt;
+Jump to
+&lt;span class="d-inline-block ml-1 v-align-middle"&gt;↵&lt;/span&gt;
+&lt;/div&gt;
+</code></p></div>
+<p dir="auto"></p>
+</div></li>
+</ul>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;/div&gt;
+  &lt;/label&gt;"><pre class="notranslate"><code>      &lt;/div&gt;
+  &lt;/label&gt;
+</code></pre></div></div>
+  </div>
+</div>
+<div dir="auto"><code>        &lt;/div&gt;<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &amp;lt;div class=&quot;position-relative mr-lg-3 d-lg-inline-block&quot;&amp;gt;
+    &amp;lt;a href=&quot;/login?return_to=https%3A%2F%2Fgithub.com%2Fpimpaoz15%2Fpimpaoz15%2Fblob%2Fmain%2FREADME.md&quot;
+      class=&quot;HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0&quot;
+      data-hydro-click=&quot;{&amp;amp;quot;event_type&amp;amp;quot;:&amp;amp;quot;authentication.click&amp;amp;quot;,&amp;amp;quot;payload&amp;amp;quot;:{&amp;amp;quot;location_in_page&amp;amp;quot;:&amp;amp;quot;site header menu&amp;amp;quot;,&amp;amp;quot;repository_id&amp;amp;quot;:null,&amp;amp;quot;auth_type&amp;amp;quot;:&amp;amp;quot;SIGN_UP&amp;amp;quot;,&amp;amp;quot;originating_url&amp;amp;quot;:&amp;amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;fc919e8392f57da2dadb680173819f076c134d3b3d9947eb9cb0d30ff9c89ee7&quot;
+      data-ga-click=&quot;(Logged out) Header, clicked Sign in, text:sign-in&quot;&amp;gt;
+      Sign in
+    &amp;lt;/a&amp;gt;
+  &amp;lt;/div&amp;gt;
+
+    &amp;lt;a href=&quot;/signup?ref_cta=Sign+up&amp;amp;amp;ref_loc=header+logged+out&amp;amp;amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;amp;amp;source=header-repo&amp;amp;amp;source_repo=pimpaoz15%2Fpimpaoz15&quot;
+      class=&quot;HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1&quot;
+      data-hydro-click=&quot;{&amp;amp;quot;event_type&amp;amp;quot;:&amp;amp;quot;authentication.click&amp;amp;quot;,&amp;amp;quot;payload&amp;amp;quot;:{&amp;amp;quot;location_in_page&amp;amp;quot;:&amp;amp;quot;site header menu&amp;amp;quot;,&amp;amp;quot;repository_id&amp;amp;quot;:null,&amp;amp;quot;auth_type&amp;amp;quot;:&amp;amp;quot;SIGN_UP&amp;amp;quot;,&amp;amp;quot;originating_url&amp;amp;quot;:&amp;amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;fc919e8392f57da2dadb680173819f076c134d3b3d9947eb9cb0d30ff9c89ee7&quot;
+      data-analytics-event=&quot;{&amp;amp;quot;category&amp;amp;quot;:&amp;amp;quot;Sign up&amp;amp;quot;,&amp;amp;quot;action&amp;amp;quot;:&amp;amp;quot;click to sign up for account&amp;amp;quot;,&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;ref_page:/&amp;amp;lt;user-name&amp;amp;gt;/&amp;amp;lt;repo-name&amp;amp;gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&amp;amp;quot;}&quot;
+    &amp;gt;
+      Sign up
+    &amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;"><pre class="notranslate"><code>  &amp;lt;div class="position-relative mr-lg-3 d-lg-inline-block"&amp;gt;
+    &amp;lt;a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fpimpaoz15%2Fpimpaoz15%2Fblob%2Fmain%2FREADME.md"
+      class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
+      data-hydro-click="{&amp;amp;quot;event_type&amp;amp;quot;:&amp;amp;quot;authentication.click&amp;amp;quot;,&amp;amp;quot;payload&amp;amp;quot;:{&amp;amp;quot;location_in_page&amp;amp;quot;:&amp;amp;quot;site header menu&amp;amp;quot;,&amp;amp;quot;repository_id&amp;amp;quot;:null,&amp;amp;quot;auth_type&amp;amp;quot;:&amp;amp;quot;SIGN_UP&amp;amp;quot;,&amp;amp;quot;originating_url&amp;amp;quot;:&amp;amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null}}" data-hydro-click-hmac="fc919e8392f57da2dadb680173819f076c134d3b3d9947eb9cb0d30ff9c89ee7"
+      data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in"&amp;gt;
+      Sign in
+    &amp;lt;/a&amp;gt;
+  &amp;lt;/div&amp;gt;
+
+    &amp;lt;a href="/signup?ref_cta=Sign+up&amp;amp;amp;ref_loc=header+logged+out&amp;amp;amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;amp;amp;source=header-repo&amp;amp;amp;source_repo=pimpaoz15%2Fpimpaoz15"
+      class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
+      data-hydro-click="{&amp;amp;quot;event_type&amp;amp;quot;:&amp;amp;quot;authentication.click&amp;amp;quot;,&amp;amp;quot;payload&amp;amp;quot;:{&amp;amp;quot;location_in_page&amp;amp;quot;:&amp;amp;quot;site header menu&amp;amp;quot;,&amp;amp;quot;repository_id&amp;amp;quot;:null,&amp;amp;quot;auth_type&amp;amp;quot;:&amp;amp;quot;SIGN_UP&amp;amp;quot;,&amp;amp;quot;originating_url&amp;amp;quot;:&amp;amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;amp;quot;,&amp;amp;quot;user_id&amp;amp;quot;:null}}" data-hydro-click-hmac="fc919e8392f57da2dadb680173819f076c134d3b3d9947eb9cb0d30ff9c89ee7"
+      data-analytics-event="{&amp;amp;quot;category&amp;amp;quot;:&amp;amp;quot;Sign up&amp;amp;quot;,&amp;amp;quot;action&amp;amp;quot;:&amp;amp;quot;click to sign up for account&amp;amp;quot;,&amp;amp;quot;label&amp;amp;quot;:&amp;amp;quot;ref_page:/&amp;amp;lt;user-name&amp;amp;gt;/&amp;amp;lt;repo-name&amp;amp;gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&amp;amp;quot;}"
+    &amp;gt;
+      Sign up
+    &amp;lt;/a&amp;gt;
+&amp;lt;/div&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;/div&gt;
+&lt;/div&gt;
+</code></p></div><p dir="auto"></p>
+  </div>
+</div>
+<div dir="auto"><code>  &lt;div hidden="hidden" data-view-component="true" class="js-stale-session-flash flash flash-warn mb-3"&gt;<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&amp;lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&amp;gt;"><pre class="notranslate"><code>&amp;lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert"&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"&gt;&lt;/path&gt;
+</code></p></div><p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;You signed in with another tab or window. &lt;a href=&quot;/pimpaoz15/pimpaoz15/blob/main&quot;&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
+    &lt;span&gt;You signed out in another tab or window. &lt;a href=&quot;/pimpaoz15/pimpaoz15/blob/main&quot;&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;You signed in with another tab or window. &lt;a href="/pimpaoz15/pimpaoz15/blob/main"&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
+    &lt;span&gt;You signed out in another tab or window. &lt;a href="/pimpaoz15/pimpaoz15/blob/main"&gt;Reload&lt;/a&gt; to refresh your session.&lt;/span&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;button class=&quot;flash-close js-flash-close&quot; type=&quot;button&quot; aria-label=&quot;Close&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-x&quot;&gt;
+&lt;path d=&quot;M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;button class="flash-close js-flash-close" type="button" aria-label="Close"&gt;
+  &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x"&gt;
+&lt;path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+
+  <div id="user-content-start-of-content" dir="auto"></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div id=&quot;js-flash-container&quot; data-turbo-replace&gt;"><pre class="notranslate"><code>&lt;div id="js-flash-container" data-turbo-replace&gt;
+</code></pre></div></div>
+<div dir="auto">
+  <div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div dir=&quot;auto&quot;&gt;"><pre class="notranslate"><code>&lt;div dir="auto"&gt;
+</code></pre></div>
+<div dir="auto"><code>  &lt;div&gt;{{ message }}&lt;/div&gt;<p dir="auto"></p>
+</code><p dir="auto"><code>&lt;/div&gt;
+</code></p></div><p dir="auto"></p>
+  </div>
+</div>
+  
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;include-fragment class=&quot;js-notification-shelf-include-fragment&quot; data-base-src=&quot;https://github.com/notifications/beta/shelf&quot;&gt;&lt;/include-fragment&gt;"><pre class="notranslate"><code>&lt;include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"&gt;&lt;/include-fragment&gt;
+</code></pre></div></div>
+  <div dir="auto">
+        <div itemscope="" itemtype="http://schema.org/SoftwareSourceCode" dir="auto">
+  <div id="user-content-repository-container-header" dir="auto">
+<div dir="auto">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;span class=&quot;author flex-self-stretch&quot; itemprop=&quot;author&quot;&gt;
+  &lt;a class=&quot;url fn&quot; rel=&quot;author&quot; data-hovercard-type=&quot;user&quot; data-hovercard-url=&quot;/users/pimpaoz15/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/pimpaoz15&quot;&gt;
+    pimpaoz15"><pre class="notranslate"><code>&lt;span class="author flex-self-stretch" itemprop="author"&gt;
+  &lt;a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/pimpaoz15/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/pimpaoz15"&gt;
+    pimpaoz15
+</code></pre></div></div>
+<p dir="auto">    
+<span>/</span>
+<strong itemprop="name">
+<a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15">pimpaoz15</a>
+</strong></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;Label Label--secondary v-align-middle mr-1&quot;&gt;Public&lt;/span&gt;"><pre class="notranslate"><code>&lt;span&gt;&lt;/span&gt;&lt;span class="Label Label--secondary v-align-middle mr-1"&gt;Public&lt;/span&gt;
+</code></pre></div></div>
+  </div>
+<div dir="auto">    
+<p dir="auto">Notifications
+  </p>
+  <li>
+          <a id="user-content-fork-button" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/login?return_to=%2Fpimpaoz15%2Fpimpaoz15">    
+</a><p dir="auto">Fork
+<span id="user-content-repo-network-counter" title="0">0</span>
+</p>
+  </li>
+  <li>
+        <div dir="auto">
+        <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/login?return_to=%2Fpimpaoz15%2Fpimpaoz15" aria-label="You must be signed in to star a repository">    
+<span>
+          Star
+</span>          <span id="user-content-repo-stars-counter-star" title="0">0</span>
+</a>            
+</div>
+  </li>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;nav data-pjax=&quot;#js-repo-pjax-container&quot; aria-label=&quot;Repository&quot; data-view-component=&quot;true&quot; class=&quot;js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5&quot;&gt;"><pre class="notranslate"><code>      &lt;nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5"&gt;
+</code></pre></div></div>
+  <ul dir="auto">
+      <li>
+  <a id="user-content-code-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-code UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Code&lt;/span&gt;
+      &lt;span id=&quot;user-content-code-repo-tab-count&quot; title=&quot;Not available&quot;&gt;&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Code&lt;/span&gt;
+      &lt;span id="user-content-code-repo-tab-count" title="Not available"&gt;&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-issues-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/issues"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z&quot;&gt;&lt;/path&gt;&lt;path d=&quot;M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"&gt;&lt;/path&gt;&lt;path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Issues&lt;/span&gt;
+      &lt;span id=&quot;user-content-issues-repo-tab-count&quot; title=&quot;0&quot;&gt;0&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Issues&lt;/span&gt;
+      &lt;span id="user-content-issues-repo-tab-count" title="0"&gt;0&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-pull-requests-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/pulls"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Pull requests&lt;/span&gt;
+      &lt;span id=&quot;user-content-pull-requests-repo-tab-count&quot; title=&quot;0&quot;&gt;0&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Pull requests&lt;/span&gt;
+      &lt;span id="user-content-pull-requests-repo-tab-count" title="0"&gt;0&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-actions-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/actions"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-play UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Actions&lt;/span&gt;
+      &lt;span id=&quot;user-content-actions-repo-tab-count&quot; title=&quot;Not available&quot;&gt;&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Actions&lt;/span&gt;
+      &lt;span id="user-content-actions-repo-tab-count" title="Not available"&gt;&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-projects-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/projects"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-table UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Projects&lt;/span&gt;
+      &lt;span id=&quot;user-content-projects-repo-tab-count&quot; title=&quot;0&quot;&gt;0&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Projects&lt;/span&gt;
+      &lt;span id="user-content-projects-repo-tab-count" title="0"&gt;0&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-security-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/security"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Security&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Security&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p>
+<li>
+<a id="user-content-insights-tab" href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/pulse"><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline&quot;&gt;
+&lt;path d=&quot;M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>          &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline"&gt;
+&lt;path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;span&gt;Insights&lt;/span&gt;
+      &lt;span id=&quot;user-content-insights-repo-tab-count&quot; title=&quot;Not available&quot;&gt;&lt;/span&gt;"><pre class="notranslate"><code>    &lt;span&gt;Insights&lt;/span&gt;
+      &lt;span id="user-content-insights-repo-tab-count" title="Not available"&gt;&lt;/span&gt;
+</code></pre></div>
+</a><p dir="auto"></p><p dir="auto"></p></li><p dir="auto"></p><p dir="auto"></p>
+</ul>
+    <div dir="auto">      <details>
+  <summary>          <div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;span&gt;More&lt;/span&gt;
+      &lt;/div&gt;"><pre class="notranslate"><code>        &lt;span&gt;More&lt;/span&gt;
+      &lt;/div&gt;
+</code></pre></div>
+</div></summary>
+            <ul dir="auto">
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15">
+                  Code
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/issues">
+                  Issues
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/pulls">
+                  Pull requests
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/actions">
+                  Actions
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/projects">
+                  Projects
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/security">
+                  Security
+</a>              </li>
+              <li>
+                <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/pulse">
+                  Insights
+</a>              </li>
+          </ul>
+</details></div>
+  </div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div id=&quot;user-content-repo-content-pjax-container&quot; dir=&quot;auto&quot;&gt;"><pre class="notranslate"><code>&lt;div id="user-content-repo-content-pjax-container" dir="auto"&gt;
+</code></pre></div>
+  <div dir="auto">
+<div dir="auto">
+<p dir="auto"><a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md">Permalink</a></p>
+<div dir="auto">
+<div dir="auto">
+  <details id="user-content-branch-select-menu">
+    <summary title="Switch branches or tags">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;span&gt;main&lt;/span&gt;
+  &lt;span&gt;&lt;/span&gt;
+&lt;/summary&gt;"><pre class="notranslate"><code>  &lt;span&gt;main&lt;/span&gt;
+  &lt;span&gt;&lt;/span&gt;
+&lt;/summary&gt;
+</code></pre></div>
+<div dir="auto">
+  <div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;span&gt;Switch branches/tags&lt;/span&gt;"><pre class="notranslate"><code>  &lt;span&gt;Switch branches/tags&lt;/span&gt;
+</code></pre></div>
+<div dir="auto"><code>&lt;input-demux data-action="tab-container-change:input-demux#storeInput tab-container-changed:input-demux#updateInput"&gt;
+&lt;tab-container class="d-flex flex-column js-branches-tags-tabs" style="min-height: 0;"&gt;
+&lt;div class="SelectMenu-filter"&gt;
+&lt;input data-target="input-demux.source"
+id="context-commitish-filter-field"
+class="SelectMenu-input form-control"
+aria-owns="ref-list-branches"
+data-controls-ref-menu-id="ref-list-branches"
+autofocus
+autocomplete="off"
+aria-label="Filter branches/tags"
+placeholder="Filter branches/tags"
+type="text"
+&gt;
+&lt;/div&gt;<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&amp;lt;div class=&quot;SelectMenu-tabs&quot; role=&quot;tablist&quot; data-target=&quot;input-demux.control&quot; &amp;gt;
+  &amp;lt;button class=&quot;SelectMenu-tab&quot; type=&quot;button&quot; role=&quot;tab&quot; aria-selected=&quot;true&quot;&amp;gt;Branches&amp;lt;/button&amp;gt;
+  &amp;lt;button class=&quot;SelectMenu-tab&quot; type=&quot;button&quot; role=&quot;tab&quot;&amp;gt;Tags&amp;lt;/button&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div role=&quot;tabpanel&quot; id=&quot;ref-list-branches&quot; data-filter-placeholder=&quot;Filter branches/tags&quot; tabindex=&quot;&quot; class=&quot;d-flex flex-column flex-auto overflow-auto&quot;&amp;gt;
+  &amp;lt;ref-selector
+    type=&quot;branch&quot;
+    data-targets=&quot;input-demux.sinks&quot;
+    data-action=&quot;
+      input-entered:ref-selector#inputEntered
+      tab-selected:ref-selector#tabSelected
+      focus-list:ref-selector#focusFirstListMember
+    &quot;
+    query-endpoint=&quot;/pimpaoz15/pimpaoz15/refs&quot;
+    
+    cache-key=&quot;v0:1686229081.0131001&quot;
+    current-committish=&quot;bWFpbg==&quot;
+    default-branch=&quot;bWFpbg==&quot;
+    name-with-owner=&quot;cGltcGFvejE1L3BpbXBhb3oxNQ==&quot;
+    prefetch-on-mouseover
+  &amp;gt;
+
+    &amp;lt;template data-target=&quot;ref-selector.fetchFailedTemplate&quot;&amp;gt;
+      &amp;lt;div class=&quot;SelectMenu-message&quot; data-index=&quot;{{ index }}&quot;&amp;gt;Could not load branches&amp;lt;/div&amp;gt;
+    &amp;lt;/template&amp;gt;
+
+      &amp;lt;template data-target=&quot;ref-selector.noMatchTemplate&quot;&amp;gt;"><pre class="notranslate"><code>&amp;lt;div class="SelectMenu-tabs" role="tablist" data-target="input-demux.control" &amp;gt;
+  &amp;lt;button class="SelectMenu-tab" type="button" role="tab" aria-selected="true"&amp;gt;Branches&amp;lt;/button&amp;gt;
+  &amp;lt;button class="SelectMenu-tab" type="button" role="tab"&amp;gt;Tags&amp;lt;/button&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto"&amp;gt;
+  &amp;lt;ref-selector
+    type="branch"
+    data-targets="input-demux.sinks"
+    data-action="
+      input-entered:ref-selector#inputEntered
+      tab-selected:ref-selector#tabSelected
+      focus-list:ref-selector#focusFirstListMember
+    "
+    query-endpoint="/pimpaoz15/pimpaoz15/refs"
+    
+    cache-key="v0:1686229081.0131001"
+    current-committish="bWFpbg=="
+    default-branch="bWFpbg=="
+    name-with-owner="cGltcGFvejE1L3BpbXBhb3oxNQ=="
+    prefetch-on-mouseover
+  &amp;gt;
+
+    &amp;lt;template data-target="ref-selector.fetchFailedTemplate"&amp;gt;
+      &amp;lt;div class="SelectMenu-message" data-index="{{ index }}"&amp;gt;Could not load branches&amp;lt;/div&amp;gt;
+    &amp;lt;/template&amp;gt;
+
+      &amp;lt;template data-target="ref-selector.noMatchTemplate"&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;div class="SelectMenu-message"&gt;Nothing to show&lt;/div&gt;
+</code></p></div><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;div data-target=&quot;ref-selector.listContainer&quot; role=&quot;menu&quot; class=&quot;SelectMenu-list &quot; data-turbo-frame=&quot;repo-content-turbo-frame&quot;&gt;
+          &lt;div class=&quot;SelectMenu-loading pt-3 pb-0 overflow-hidden&quot; aria-label=&quot;Menu is loading&quot;&gt;
+            &lt;svg style=&quot;box-sizing: content-box; color: var(--color-icon-primary);&quot; width=&quot;32&quot; height=&quot;32&quot; viewBox=&quot;0 0 16 16&quot; fill=&quot;none&quot; data-view-component=&quot;true&quot; class=&quot;anim-rotate&quot;&gt;"><pre class="notranslate"><code>        &lt;div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " data-turbo-frame="repo-content-turbo-frame"&gt;
+          &lt;div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading"&gt;
+            &lt;svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate"&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;/div&gt;
+        &lt;/div&gt;"><pre class="notranslate"><code>          &lt;/div&gt;
+        &lt;/div&gt;
+</code></pre></div>
+  <a href="https://github.com/pimpaoz15/pimpaoz15/blob/{{ urlEncodedRefName }}/README.md">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;span&gt;{{ refName }}&lt;/span&gt;
+&lt;span&gt;default&lt;/span&gt;"><pre class="notranslate"><code>&lt;span&gt;{{ refName }}&lt;/span&gt;
+&lt;span&gt;default&lt;/span&gt;
+</code></pre></div>
+  </a>
+<div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;span&gt;{{ refName }}&lt;/span&gt;
+&lt;span&gt;default&lt;/span&gt;"><pre class="notranslate"><code>&lt;span&gt;{{ refName }}&lt;/span&gt;
+&lt;span&gt;default&lt;/span&gt;
+</code></pre></div>
+  
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;div data-target=&quot;ref-selector.listContainer&quot; role=&quot;menu&quot; class=&quot;SelectMenu-list&quot; data-turbo-frame=&quot;repo-content-turbo-frame&quot;&gt;
+          &lt;div class=&quot;SelectMenu-loading pt-3 pb-0 overflow-hidden&quot; aria-label=&quot;Menu is loading&quot;&gt;
+            &lt;svg style=&quot;box-sizing: content-box; color: var(--color-icon-primary);&quot; width=&quot;32&quot; height=&quot;32&quot; viewBox=&quot;0 0 16 16&quot; fill=&quot;none&quot; data-view-component=&quot;true&quot; class=&quot;anim-rotate&quot;&gt;"><pre class="notranslate"><code>        &lt;div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" data-turbo-frame="repo-content-turbo-frame"&gt;
+          &lt;div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading"&gt;
+            &lt;svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate"&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          &lt;/details&gt;&lt;/div&gt;
+        &lt;/div&gt;
+          &lt;a href=&quot;/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/tags&quot;&gt;View all tags&lt;/a&gt;
+      
+    &lt;/div&gt;"><pre class="notranslate"><code>          &lt;/details&gt;&lt;/div&gt;
+        &lt;/div&gt;
+          &lt;a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/tags"&gt;View all tags&lt;/a&gt;
+      
+    &lt;/div&gt;
+</code></pre></div>
+  </div>
+</div>
+</div>
+<div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;div dir=&quot;auto&quot;&gt;
+      &lt;div dir=&quot;auto&quot;&gt;
+        &lt;h1 id=&quot;user-content-warn-tag-match-create-branch-dialog-header&quot; dir=&quot;auto&quot;&gt;&lt;a id=&quot;user-content-name-already-in-use&quot; class=&quot;anchor&quot; aria-hidden=&quot;true&quot; href=&quot;#name-already-in-use&quot;&gt;&lt;svg class=&quot;octicon octicon-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Name already in use&lt;/h1&gt;
+      &lt;/div&gt;
+      &lt;div dir=&quot;auto&quot;&gt;
+        
+
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  
+&lt;div dir=&quot;auto&quot;&gt;"><pre class="notranslate"><code>    &lt;div dir="auto"&gt;
+      &lt;div dir="auto"&gt;
+        &lt;h1 id="user-content-warn-tag-match-create-branch-dialog-header" dir="auto"&gt;&lt;a id="user-content-name-already-in-use" class="anchor" aria-hidden="true" href="#name-already-in-use"&gt;&lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Name already in use&lt;/h1&gt;
+      &lt;/div&gt;
+      &lt;div dir="auto"&gt;
+        
+
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+  
+&lt;div dir="auto"&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;div data-view-component=&quot;true&quot;&gt;      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?"><pre class="notranslate"><code>      &lt;div data-view-component="true"&gt;      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+</code></pre></div></div>
+</div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;
+  &lt;footer class=&quot;Overlay-footer Overlay-footer--alignEnd&quot;&gt;
+        &lt;button data-close-dialog-id=&quot;warn-tag-match-create-branch-dialog&quot; type=&quot;button&quot; data-view-component=&quot;true&quot; class=&quot;btn&quot;&gt;    Cancel"><pre class="notranslate"><code>&lt;/div&gt;
+  &lt;footer class="Overlay-footer Overlay-footer--alignEnd"&gt;
+        &lt;button data-close-dialog-id="warn-tag-match-create-branch-dialog" type="button" data-view-component="true" class="btn"&gt;    Cancel
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="            Create"><pre class="notranslate"><code>            Create
+</code></pre></div>
+</summary></details></div>
+  <h2 id="user-content-blob-path" dir="auto"><a id="user-content-----pimpaoz15readmemd---1" class="anchor" aria-hidden="true" href="#----pimpaoz15readmemd---1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-----pimpaoz15readmemd--" href="#----pimpaoz15readmemd--"></a>
+    <span><span><a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15"><span>pimpaoz15</span></a></span></span><span>/</span><strong>README.md</strong>
+  </h2>
+    <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/find/main">    Go to file
+</a>
+  <details id="user-content-blob-more-options-details">
+    <summary>    
+</summary>
+  <div dir="auto">      <ul dir="auto">
+        <li>
+          <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/find/main">
+            <span>Go to file</span>
+            <span>T</span>
+</a>        </li>
+        <li>
+                <span>
+              <span>Go to line</span>
+              <span>L</span>
+            </span>
+        </li>
+        <li></li>
+        <li>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        Copy path"><pre class="notranslate"><code>        Copy path
+</code></pre></div></div>
+<p dir="auto">        </p></li>
+<li>
+<p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;span class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;span class=&quot;flex-auto&quot;&gt;Copy permalink&lt;/span&gt;
+        &lt;/span&gt;"><pre class="notranslate"><code>        &lt;span class="d-flex flex-items-baseline"&gt;
+          &lt;span class="flex-auto"&gt;Copy permalink&lt;/span&gt;
+        &lt;/span&gt;
+</code></pre></div></div>
+<p dir="auto">        </p></li>
+</ul><p dir="auto"></p>
+</div>
+</details>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div id=&quot;spoof-warning&quot; class=&quot;mt-0 pb-3&quot; hidden aria-hidden&gt;"><pre class="notranslate"><code>&lt;div id="spoof-warning" class="mt-0 pb-3" hidden aria-hidden&gt;
+</code></pre></div></div>
+  <div dir="auto">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert float-left mt-1&quot;&gt;
+&lt;path d=&quot;M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>&lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert float-left mt-1"&gt;
+&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div class=&quot;overflow-hidden&quot;&gt;This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.&lt;/div&gt;"><pre class="notranslate"><code>  &lt;div class="overflow-hidden"&gt;This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.&lt;/div&gt;
+</code></pre></div></div>
+</div>
+<div dir="auto"><code>&lt;include-fragment src="/pimpaoz15/pimpaoz15/spoofed_commit_check/32f887bb855f1aa61910a144568b38059cf4cd2c" data-test-selector="spoofed-commit-check"&gt;&lt;/include-fragment&gt;<p dir="auto"></p>
+</code><p dir="auto"><code>&lt;div class="Box d-flex flex-column flex-shrink-0 mb-3"&gt;
+</code></p></div><p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div dir=&quot;auto&quot;&gt;
+  &lt;div dir=&quot;auto&quot;&gt;&lt;/div&gt;
+  &lt;div dir=&quot;auto&quot;&gt; &lt;/div&gt;
+&lt;/div&gt;"><pre class="notranslate"><code>&lt;div dir="auto"&gt;
+  &lt;div dir="auto"&gt;&lt;/div&gt;
+  &lt;div dir="auto"&gt; &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;Box-body d-flex flex-items-center&quot; &gt;
+  &lt;div class=&quot;Skeleton Skeleton--text col-1&quot;&gt;&amp;nbsp;&lt;/div&gt;
+  &lt;span class=&quot;color-fg-danger h6 loader-error&quot;&gt;Cannot retrieve contributors at this time&lt;/span&gt;
+&lt;/div&gt;"><pre class="notranslate"><code>&lt;div class="Box-body d-flex flex-items-center" &gt;
+  &lt;div class="Skeleton Skeleton--text col-1"&gt;&amp;nbsp;&lt;/div&gt;
+  &lt;span class="color-fg-danger h6 loader-error"&gt;Cannot retrieve contributors at this time&lt;/span&gt;
+&lt;/div&gt;
+</code></pre></div></div>
+<p dir="auto"></p>
+<div dir="auto"><code>&lt;readme-toc&gt;<p dir="auto"></p>
+</code><p dir="auto"><code>&lt;div data-target="readme-toc.content" class="Box mt-3 position-relative"&gt;
+</code></p></div><p dir="auto"></p>
+  <div dir="auto">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;details"><pre class="notranslate"><code>  &lt;details
+</code></pre></div></div>
+<p dir="auto">data-target="readme-toc.trigger"
+data-menu-hydro-click="{"event_type":"repository_toc_menu.click","payload":{"target":"trigger","repository_id":649307142,"originating_url":"<a href="https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null%7D%7D">https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}</a>"
+data-menu-hydro-click-hmac="65ada197d19f9297aa691c1d66fe43a7b2422011a3e73848a853434fc57e604a"
+class="dropdown details-reset details-overlay"</p>
+<blockquote>
+</blockquote>
+  <summary aria-label="Table of Contents">
+  </summary>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div dir=&quot;auto&quot;&gt;"><pre class="notranslate"><code>&lt;div dir="auto"&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div class=&quot;SelectMenu-list SelectMenu-list--borderless p-2&quot; style=&quot;overscroll-behavior: contain;&quot;&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized&quot; style=&quot;-webkit-box-orient: vertical; padding-left: 12px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#hi-im-manuel&quot;&gt;Hi, I'm Manuel&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#student-at-instituto-superior-técnico-lisbon&quot;&gt;Student at Instituto Superior Técnico, Lisbon.&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#github-stats&quot;&gt;Github Stats:&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 36px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#languages-and-tools&quot;&gt;Languages and Tools:&lt;/a&gt;
+      &lt;a role=&quot;menuitem&quot; class=&quot;filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 &quot; style=&quot;-webkit-box-orient: vertical; padding-left: 24px;&quot; data-action=&quot;click:readme-toc#blur&quot; data-targets=&quot;readme-toc.entries&quot; data-hydro-click=&quot;{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}&quot; data-hydro-click-hmac=&quot;26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b&quot; href=&quot;#visitor-stats&quot;&gt;Visitor Stats&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;"><pre class="notranslate"><code>  &lt;div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;"&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#hi-im-manuel"&gt;Hi, I'm Manuel&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#student-at-instituto-superior-técnico-lisbon"&gt;Student at Instituto Superior Técnico, Lisbon.&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#github-stats"&gt;Github Stats:&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#languages-and-tools"&gt;Languages and Tools:&lt;/a&gt;
+      &lt;a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&amp;quot;event_type&amp;quot;:&amp;quot;repository_toc_menu.click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;target&amp;quot;:&amp;quot;entry&amp;quot;,&amp;quot;repository_id&amp;quot;:649307142,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/pimpaoz15/pimpaoz15/blob/main/README.md&amp;quot;,&amp;quot;user_id&amp;quot;:null}}" data-hydro-click-hmac="26f37970ccc7ebbe5d046c47f5e0c71dc65e31c5950af667657e8dadaaf1c21b" href="#visitor-stats"&gt;Visitor Stats&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</code></pre></div></div>
+  <div dir="auto">
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  58 lines (51 sloc)
+  &lt;span class=&quot;file-info-divider&quot;&gt;&lt;/span&gt;
+2.95 KB"><pre class="notranslate"><code>  58 lines (51 sloc)
+  &lt;span class="file-info-divider"&gt;&lt;/span&gt;
+2.95 KB
+</code></pre></div></div>
+  </div>
+  <div dir="auto">
+        <div dir="auto">
+      <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/README.md?plain=1" aria-label="Display the source blob">    
+</a><p dir="auto">      <a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blob/main/README.md" aria-label="Display the rendered blob"></a></p>
+<p dir="auto">  </p></div><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;BtnGroup&quot;&gt;
+    &lt;a data-permalink-href=&quot;/pimpaoz15/pimpaoz15/raw/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md&quot; href=&quot;/pimpaoz15/pimpaoz15/raw/main/README.md&quot; id=&quot;raw-url&quot; group_item=&quot;true&quot; data-view-component=&quot;true&quot; class=&quot;js-permalink-replaceable-link Button--secondary Button--small Button&quot;&gt;    &lt;span class=&quot;Button-content&quot;&gt;
+  &lt;span class=&quot;Button-label&quot;&gt;Raw&lt;/span&gt;
+&lt;/span&gt;"><pre class="notranslate"><code>&lt;div class="BtnGroup"&gt;
+    &lt;a data-permalink-href="/pimpaoz15/pimpaoz15/raw/32f887bb855f1aa61910a144568b38059cf4cd2c/README.md" href="/pimpaoz15/pimpaoz15/raw/main/README.md" id="raw-url" group_item="true" data-view-component="true" class="js-permalink-replaceable-link Button--secondary Button--small Button"&gt;    &lt;span class="Button-content"&gt;
+  &lt;span class="Button-label"&gt;Raw&lt;/span&gt;
+&lt;/span&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;a href=&quot;/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blame/main/README.md&quot;&gt;    &lt;span&gt;
+  &lt;span&gt;Blame&lt;/span&gt;
+&lt;/span&gt;"><pre class="notranslate"><code>      &lt;a href="/pimpaoz15/pimpaoz15/blob/main/pimpaoz15/pimpaoz15/blame/main/README.md"&gt;    &lt;span&gt;
+  &lt;span&gt;Blame&lt;/span&gt;
+&lt;/span&gt;
+</code></pre></div>
+  
+    </div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;d-flex&quot;&gt;"><pre class="notranslate"><code>&lt;div class="d-flex"&gt;
+</code></pre></div></div>
+<div dir="auto">
+  <details>
+      <summary aria-label="Select additional options">
+</summary>    <div dir="auto">
+      <div dir="auto">
+        <div dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="              &lt;div dir=&quot;auto&quot;&gt;Edit this file&lt;/div&gt;
+          &lt;div dir=&quot;auto&quot;&gt;E&lt;/div&gt;"><pre class="notranslate"><code>              &lt;div dir="auto"&gt;Edit this file&lt;/div&gt;
+          &lt;div dir="auto"&gt;E&lt;/div&gt;
+</code></pre></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="        &lt;a data-platforms=&quot;windows,mac&quot; aria-label=&quot;Open this file in GitHub Desktop&quot; href=&quot;https://desktop.github.com&quot; data-view-component=&quot;true&quot; class=&quot;SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5&quot;&gt;
+          Open in GitHub Desktop"><pre class="notranslate"><code>        &lt;a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5"&gt;
+          Open in GitHub Desktop
+</code></pre></div></div>
+<p dir="auto">        </p></div>
+</div>
+</div><p dir="auto"></p>
+  </details>
+</div>
+<div dir="auto">
+  </div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;button class=&quot;btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw&quot; disabled
+        aria-label=&quot;You must be signed in to make or propose changes&quot; type=&quot;button&quot;&gt;
+        &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-trash&quot;&gt;
+&lt;path d=&quot;M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z&quot;&gt;&lt;/path&gt;"><pre class="notranslate"><code>      &lt;button class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw" disabled
+        aria-label="You must be signed in to make or propose changes" type="button"&gt;
+        &lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash"&gt;
+&lt;path d="M11 1.75V3h2.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75ZM4.496 6.675l.66 6.6a.25.25 0 0 0 .249.225h5.19a.25.25 0 0 0 .249-.225l.66-6.6a.75.75 0 0 1 1.492.149l-.66 6.6A1.748 1.748 0 0 1 10.595 15h-5.19a1.75 1.75 0 0 1-1.741-1.575l-.66-6.6a.75.75 0 1 1 1.492-.15ZM6.5 1.75V3h3V1.75a.25.25 0 0 0-.25-.25h-2.5a.25.25 0 0 0-.25.25Z"&gt;&lt;/path&gt;
+</code></pre></div></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div>
+  </div>
+<div dir="auto"><code>&lt;div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0"&gt;
+&lt;details class="dropdown details-reset details-overlay d-inline-block"&gt;
+&lt;summary
+class="js-blob-dropdown-click btn-octicon p-2"
+aria-haspopup="true"
+aria-label="Possible actions"<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  data-dropdown-tracking=&quot;{&amp;amp;quot;type&amp;amp;quot;:&amp;amp;quot;blob_edit_dropdown.more_options_click&amp;amp;quot;,&amp;amp;quot;context&amp;amp;quot;:{&amp;amp;quot;repository_id&amp;amp;quot;:649307142,&amp;amp;quot;actor_id&amp;amp;quot;:null,&amp;amp;quot;github_dev_enabled&amp;amp;quot;:false,&amp;amp;quot;edit_enabled&amp;amp;quot;:false,&amp;amp;quot;small_screen&amp;amp;quot;:true}}&quot;
+&amp;gt;
+  &amp;lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-kebab-horizontal&quot;&amp;gt;"><pre class="notranslate"><code>  data-dropdown-tracking="{&amp;amp;quot;type&amp;amp;quot;:&amp;amp;quot;blob_edit_dropdown.more_options_click&amp;amp;quot;,&amp;amp;quot;context&amp;amp;quot;:{&amp;amp;quot;repository_id&amp;amp;quot;:649307142,&amp;amp;quot;actor_id&amp;amp;quot;:null,&amp;amp;quot;github_dev_enabled&amp;amp;quot;:false,&amp;amp;quot;edit_enabled&amp;amp;quot;:false,&amp;amp;quot;small_screen&amp;amp;quot;:true}}"
+&amp;gt;
+  &amp;lt;svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal"&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"&gt;&lt;/path&gt;
+</code></p></div><p dir="auto"></p>
+<div dir="auto"><code>    &lt;ul class="dropdown-menu dropdown-menu-sw" style="width: 175px"&gt;
+&lt;li&gt;
+&lt;a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
+data-platforms="windows,mac"
+href="<a href="https://desktop.github.com">https://desktop.github.com</a>"&gt;
+Open with Desktop
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class="dropdown-item" href="/pimpaoz15/pimpaoz15/raw/main/README.md"&gt;
+View raw
+&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a class="dropdown-item" href="/pimpaoz15/pimpaoz15/blame/main/README.md"&gt;
+View blame
+&lt;/a&gt;
+&lt;/li&gt;<p dir="auto"></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&amp;lt;/ul&amp;gt;"><pre class="notranslate"><code>&amp;lt;/ul&amp;gt;
+</code></pre></div>
+</code><p dir="auto"><code>&lt;/details&gt;
+&lt;/div&gt;
+</code></p></div><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="    &lt;div id=&quot;readme&quot; class=&quot;Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0&quot;&gt;
 &lt;article class=&quot;markdown-body entry-content container-lg&quot; itemprop=&quot;text&quot;&gt;&lt;h1 align=&quot;center&quot; dir=&quot;auto&quot;&gt;&lt;a id=&quot;user-content-hi-im-manuel&quot; class=&quot;anchor&quot; aria-hidden=&quot;true&quot; href=&quot;#hi-im-manuel&quot;&gt;&lt;svg class=&quot;octicon octicon-link&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path d=&quot;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hi, I'm Manuel&lt;/h1&gt;"><pre class="notranslate"><code>    &lt;div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0"&gt;
 &lt;article class="markdown-body entry-content container-lg" itemprop="text"&gt;&lt;h1 align="center" dir="auto"&gt;&lt;a id="user-content-hi-im-manuel" class="anchor" aria-hidden="true" href="#hi-im-manuel"&gt;&lt;svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hi, I'm Manuel&lt;/h1&gt;
-</code></pre></div>
-<h3 align="center" dir="auto"><a id="user-content-student-at-instituto-superior-técnico-lisbon" class="anchor" aria-hidden="true" href="#student-at-instituto-superior-técnico-lisbon"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-student-at-instituto-superior-técnico-lisbon" href="#student-at-instituto-superior-técnico-lisbon"></a>Student at Instituto Superior Técnico, Lisbon.</h3>
+</code></pre></div></div>
+<h3 align="center" dir="auto"><a id="user-content-student-at-instituto-superior-técnico-lisbon" class="anchor" aria-hidden="true" href="#student-at-instituto-superior-técnico-lisbon"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-student-at-instituto-superior-técnico-lisbon" href="#student-at-instituto-superior-técnico-lisbon"></a><a id="user-content-student-at-instituto-superior-técnico-lisbon" href="#student-at-instituto-superior-técnico-lisbon"></a>Student at Instituto Superior Técnico, Lisbon.</h3>
 <br>
 <ul dir="auto">
 <li>🧑🏻‍💻 21y Engineer Student</li>
@@ -3136,12 +4390,12 @@ class="dropdown details-reset details-overlay"</p>
 </p>
 <div dir="auto"> 
   <div dir="auto">
-    <h3 dir="auto"><a id="user-content-github-stats" class="anchor" aria-hidden="true" href="#github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-github-stats" href="#github-stats"></a>Github Stats:</h3>
+    <h3 dir="auto"><a id="user-content-github-stats" class="anchor" aria-hidden="true" href="#github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-github-stats" href="#github-stats"></a><a id="user-content-github-stats" href="#github-stats"></a>Github Stats:</h3>
     <a href="https://camo.githubusercontent.com/859e73d172966e1a864d18050c933a12cc40caa69a2c2af6a2acb4b86709020b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d70696d70616f7a313526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e742663616368655f7365636f6e64733d3836343030" rel="nofollow"><img height="200" src="https://camo.githubusercontent.com/859e73d172966e1a864d18050c933a12cc40caa69a2c2af6a2acb4b86709020b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d70696d70616f7a313526636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e742663616368655f7365636f6e64733d3836343030" style="max-width: 100%;"></a>
     <a href="https://camo.githubusercontent.com/b8463cc53051b893a0240cc0bb29ed8ab45b6fb962e3c8e26a6e9f0a111e0407/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d70696d70616f7a313526636f756e745f707269766174653d74727565267468656d653d7472616e73706172656e742663616368655f7365636f6e64733d3836343030" rel="nofollow"><img height="200" src="https://camo.githubusercontent.com/b8463cc53051b893a0240cc0bb29ed8ab45b6fb962e3c8e26a6e9f0a111e0407/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d70696d70616f7a313526636f756e745f707269766174653d74727565267468656d653d7472616e73706172656e742663616368655f7365636f6e64733d3836343030" style="max-width: 100%;"></a>
   </div>
   <div dir="auto">
-    <h3 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-languages-and-tools" href="#languages-and-tools"></a>Languages and Tools:</h3>
+    <h3 dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-languages-and-tools" href="#languages-and-tools"></a><a id="user-content-languages-and-tools" href="#languages-and-tools"></a>Languages and Tools:</h3>
     <p dir="auto">
       <a href="https://www.cprogramming.com/" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> 
@@ -3164,12 +4418,93 @@ class="dropdown details-reset details-overlay"</p>
     </p>
   </div>
 </div>
-<h2 dir="auto"><a id="user-content-visitor-stats" class="anchor" aria-hidden="true" href="#visitor-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-visitor-stats" href="#visitor-stats"></a>Visitor Stats</h2>
+<h2 dir="auto"><a id="user-content-visitor-stats" class="anchor" aria-hidden="true" href="#visitor-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-visitor-stats" href="#visitor-stats"></a><a id="user-content-visitor-stats" href="#visitor-stats"></a>Visitor Stats</h2>
 <div align="left" dir="auto">
 <p dir="auto"><a href="https://camo.githubusercontent.com/0045fd54fd115c8bbe3054375a6d9072537f07d63f77d3555121c0b9c5497cc5/68747470733a2f2f76696577732e77686174696c656172656e65642e746f6461792f76696577732f6769746875622f70696d70616f7a31352f70696d70616f7a31352e737667" rel="nofollow"><img src="https://camo.githubusercontent.com/0045fd54fd115c8bbe3054375a6d9072537f07d63f77d3555121c0b9c5497cc5/68747470733a2f2f76696577732e77686174696c656172656e65642e746f6461792f76696577732f6769746875622f70696d70616f7a31352f70696d70616f7a31352e737667" style="max-width: 100%;"></a> <a href="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" rel="nofollow"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" style="max-width: 100%;"></a></p>
 </div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
+</code></pre></div></div>
+  <details id="user-content-jumpto-line-details-dialog">
+    <summary aria-label="Jump to line"></summary>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="          Go"><pre class="notranslate"><code>          Go
+</code></pre></div>
+  </details>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/main&gt;"><pre class="notranslate"><code>&lt;/main&gt;
+</code></pre></div></div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;footer class=&quot;footer width-full container-xl p-responsive&quot; role=&quot;contentinfo&quot;&gt;"><pre class="notranslate"><code>      &lt;footer class="footer width-full container-xl p-responsive" role="contentinfo"&gt;
+</code></pre></div></div>
+  <h2 dir="auto"><a id="user-content-footer" class="anchor" aria-hidden="true" href="#footer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-footer" href="#footer"></a>Footer</h2>
+  <div dir="auto">
+    <div dir="auto">
+      <div dir="auto">
+        <a aria-label="Homepage" title="GitHub" href="https://github.com">
+</a><p dir="auto">        <span>
+© 2023 GitHub, Inc.
+</span>
+</p></div>
+</div><p dir="auto"></p>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;nav aria-label='Footer' class=&quot;col-12 col-lg-8&quot;&gt;
+  &lt;h3 class='sr-only' id='sr-footer-heading'&gt;Footer navigation&lt;/h3&gt;
+  &lt;ul class=&quot;list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0&quot; aria-labelledby='sr-footer-heading'&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://docs.github.com/site-policy/github-terms/github-terms-of-service&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to terms&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:terms&amp;quot;}&quot;&gt;Terms&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://docs.github.com/site-policy/privacy-policies/github-privacy-statement&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to privacy&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:privacy&amp;quot;}&quot;&gt;Privacy&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to security&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:security&amp;quot;}&quot; href=&quot;https://github.com/security&quot;&gt;Security&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://www.githubstatus.com/&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to status&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:status&amp;quot;}&quot;&gt;Status&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a data-ga-click=&quot;Footer, go to help, text:Docs&quot; href=&quot;https://docs.github.com&quot;&gt;Docs&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://support.github.com?tags=dotcom-footer&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to contact&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:contact&amp;quot;}&quot;&gt;Contact GitHub&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://github.com/pricing&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to Pricing&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:Pricing&amp;quot;}&quot;&gt;Pricing&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://docs.github.com&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to api&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:api&amp;quot;}&quot;&gt;API&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://services.github.com&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to training&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:training&amp;quot;}&quot;&gt;Training&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;mr-3 mr-lg-0&quot;&gt;&lt;a href=&quot;https://github.blog&quot; data-analytics-event=&quot;{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to blog&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:blog&amp;quot;}&quot;&gt;Blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a data-ga-click=&quot;Footer, go to about, text:about&quot; href=&quot;https://github.com/about&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;"><pre class="notranslate"><code>&lt;nav aria-label='Footer' class="col-12 col-lg-8"&gt;
+  &lt;h3 class='sr-only' id='sr-footer-heading'&gt;Footer navigation&lt;/h3&gt;
+  &lt;ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0" aria-labelledby='sr-footer-heading'&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://docs.github.com/site-policy/github-terms/github-terms-of-service" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to terms&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:terms&amp;quot;}"&gt;Terms&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to privacy&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:privacy&amp;quot;}"&gt;Privacy&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to security&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:security&amp;quot;}" href="https://github.com/security"&gt;Security&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://www.githubstatus.com/" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to status&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:status&amp;quot;}"&gt;Status&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com"&gt;Docs&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://support.github.com?tags=dotcom-footer" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to contact&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:contact&amp;quot;}"&gt;Contact GitHub&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://github.com/pricing" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to Pricing&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:Pricing&amp;quot;}"&gt;Pricing&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://docs.github.com" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to api&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:api&amp;quot;}"&gt;API&lt;/a&gt;&lt;/li&gt;
+    &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://services.github.com" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to training&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:training&amp;quot;}"&gt;Training&lt;/a&gt;&lt;/li&gt;
+      &lt;li class="mr-3 mr-lg-0"&gt;&lt;a href="https://github.blog" data-analytics-event="{&amp;quot;category&amp;quot;:&amp;quot;Footer&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to blog&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;text:blog&amp;quot;}"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a data-ga-click="Footer, go to about, text:about" href="https://github.com/about"&gt;About&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+</code></pre></div></div>
+  </div>
+  <div dir="auto">
+    <span></span>
+  </div>
+  <div id="user-content-ajax-error-message" dir="auto">
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="You can’t perform that action at this time."><pre class="notranslate"><code>You can’t perform that action at this time.
+</code></pre></div>
+  </div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;template id=&quot;site-details-dialog&quot;&gt;"><pre class="notranslate"><code>&lt;template id="site-details-dialog"&gt;
+</code></pre></div></div>
+  <details open="">
+    <summary aria-label="Close dialog"></summary>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="  &lt;div dir=&quot;auto&quot;&gt;&lt;/div&gt;"><pre class="notranslate"><code>  &lt;div dir="auto"&gt;&lt;/div&gt;
+</code></pre></div>
+  </details>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;div class=&quot;Popover js-hovercard-content position-absolute&quot; style=&quot;display: none; outline: none;&quot; tabindex=&quot;0&quot;&gt;"><pre class="notranslate"><code>&lt;div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0"&gt;
+</code></pre></div></div>
+  <div dir="auto">
+  </div>
+<div dir="auto"><div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;template id=&quot;snippet-clipboard-copy-button&quot;&gt;"><pre class="notranslate"><code>&lt;template id="snippet-clipboard-copy-button"&gt;
+</code></pre></div></div>
+  <div dir="auto">
+  </div>
+  <div dir="auto">
+  </div>
+<div dir="auto"><code>&lt;/div&gt;<p dir="auto"></p>
+</code><p dir="auto"><code>&lt;div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" &gt;&lt;/div&gt;
+</code></p></div><p dir="auto"></p>
 
-  
+  </div>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/div&gt;"><pre class="notranslate"><code>&lt;/div&gt;
 </code></pre></div>
   
@@ -3182,17 +4517,17 @@ class="dropdown details-reset details-overlay"</p>
 
     
   </details>
-
-  
-  
+</div>
+  </div>
+  </div>
 
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="&lt;/main&gt;"><pre class="notranslate"><code>&lt;/main&gt;
 </code></pre></div>
-  
-  
+  </div>
+  </div>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="      &lt;footer class=&quot;footer width-full container-xl p-responsive&quot; role=&quot;contentinfo&quot;&gt;"><pre class="notranslate"><code>      &lt;footer class="footer width-full container-xl p-responsive" role="contentinfo"&gt;
 </code></pre></div>
-  <h2 dir="auto"><a id="user-content-footer" class="anchor" aria-hidden="true" href="#footer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Footer</h2>
+  <h2 dir="auto"><a id="user-content-footer-1" class="anchor" aria-hidden="true" href="#footer-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Footer</h2>
   <div dir="auto">
     <div dir="auto">
       <div dir="auto">
