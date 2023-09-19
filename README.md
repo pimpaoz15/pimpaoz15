@@ -21,8 +21,8 @@
 <div> 
   <div style="float: left;">
     <h3>Github Stats:</h3>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=pimpaoz15&count_private=true&show_icons=true&theme=transparent&cache_seconds=4320">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpaoz15&count_private=true&theme=transparent&cache_seconds=4320">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=pimpaoz15&count_private=true&show_icons=true&theme=transparent&cache_seconds=8600">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpaoz15&count_private=true&theme=transparent&cache_seconds=8600">
   </div>
   <div style="float: right;">
     <h3>Languages and Tools:</h3>
