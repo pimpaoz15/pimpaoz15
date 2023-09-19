@@ -5,7 +5,7 @@
 - 🧑🏻‍💻 21y Engineer Student
 - 🔌 BSc in Electrical and Computer Engineering at Instituto Superior Técnico
 - 🚀 MSc in Space Engineering at Universidad Carlos III de Madrid
-- ✉️ How to reach me **justDont@tecnico.ulisboa.pt**
+- ✉️ How to reach me **justDont@tecnico.ulisboxa.pt**
 
 <p align="left">
   <i>Let's connect and chat! Find me on the web...</i>
@@ -19,6 +19,11 @@
 </p>
 
 <div> 
+    <div style="float: left;">
+    <h3>Github Stats:</h3>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=pimpaoz15&count_private=true&show_icons=true&theme=transparent&cache_seconds=8600">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpaoz15&count_private=true&theme=transparent&cache_seconds=8600">
+  </div>
   <div style="float: right;">
     <h3>Languages and Tools:</h3>
     <p>
