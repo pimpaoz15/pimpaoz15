@@ -46,9 +46,6 @@
       <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40" />
       </a>
-      <a href="https://www.gnu.org/software/assembly/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="assembly" width="40" height="40" />
-      </a>
     </p>
   </div>
 </div>
