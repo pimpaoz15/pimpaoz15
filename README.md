@@ -17,6 +17,15 @@
   </a>
 </p>
 
+## Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pimpaoz15&theme=dark" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pimpaoz15&show_icons=true&theme=dark" alt="GitHub Streak">
+</p>
+
 <div>
   <div style="float: right;">
     <h3>Languages and Tools:</h3>
