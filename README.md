@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Manuel</h1>
-<h3 align="center">Student at Universidad Carlos III de Madrid, Madrid.</h3>
+<h3 align="center">Project Manager & Mission Analyst @ Hydra Space Systems, Madrid.</h3>
 <br>
 
-- 🧑🏻‍💻 21y Engineer Student
+- 🧑🏻‍💻 23y Space Engineer
 - 🔌 BSc in Electrical and Computer Engineering at Instituto Superior Técnico
 - 🚀 MSc in Space Engineering at Universidad Carlos III de Madrid
-- ✉️ How to reach me **justDont@tecnico.ulisboxa.pt**
 
 <p align="left">
   <i>Let's connect and chat! Find me on the web...</i>
